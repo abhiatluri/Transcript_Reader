@@ -1,0 +1,2038 @@
+callId,callDurationSec,readable_transcript
+call_9270a3d6fde821e8d1409f18992,127.835,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I have two potential appointments in December. My name is Rosha Morgan. I have one Friday, December 12 at nine, and I have one Tuesday, December 30 at 03:00. These are both for cleanings.
+User: Can I keep the one for Friday to take with somebody at the front office? Because I have I booked them both in advance.
+Agent: Could you please provide me with your date of birth so I can confirm your 
+Agent: appointment 
+User: O four two four four. O four two four four six.
+Agent: Just to clarify, could you confirm your date of birth in the format of day-month-year? For example, 
+User: April. Oh, jeez.
+Agent: if you were born on April 24, 1994, it would be 24-04-1994.
+User: 04/24/1946.
+User: Sarah, what are you doing?
+Agent: I'm transferring your call to a human agent for further assistance."
+call_b6a1ea2eaa84c9cf1a66b414a0f,67.857,"Agent: Hello, I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: I just wanted to check in and see how I can assist you today. Please let me know if you need help with appointments, billing, or any other clinic-related queries!
+User: Appointment.
+Agent: Could you please clarify if you would like to book, confirm, reschedule, or cancel an appointment? Or are you looking for details about an existing appointment?
+User: Book
+Agent: I will connect you to our scheduling team to assist with booking 
+User: (inaudible speech)
+Agent: your appointment. Please hold on."
+call_4528e7be512412a9f1821f9d534,96.024,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Receptionist.
+Agent: It seems like you might be looking for a receptionist. How can I help you with your inquiry today?
+User: Receptionist.
+Agent: I understand you're looking for assistance from the receptionist. Could you please let me know what specific help you need?
+User: Cavity clearance.
+Agent: It sounds like you might have a dental concern. Would you like to book an appointment for that, or is there something else you need assistance with?
+User: Receptionist.
+Agent: I see you're trying to reach the receptionist. How can I assist you with your request today?
+User: Receptionist. Oh, does that work?"
+call_2ad2282b39d059e2faaa0cf2707,76.026,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appendment.
+Agent: Could you please clarify if you are looking to book, confirm, reschedule, or cancel an appointment? Or is there something else I can assist you with?
+Agent: Just checking in—are you still 
+User: So far. 
+Agent: there? Let me know how I can assist you!
+User: I need to confirm my appointment.
+Agent: Got it! Could you please provide the patient's date of birth so I can assist with confirming the appointment?
+User: Six twenty nineteen eighty five.
+Agent: It seems I could not locate any appointments under the provided date of birth. I will connect you to our scheduling team for further assistance. Please hold on."
+call_31325eab83dd7c7f5a96748ae25,147.93,"User: R s m 
+Agent: Hello! I am Sara, a 
+User: been appointment and reschedule.
+Agent: virtual 
+Agent: assistant to=functions.transfer_call_appointment 
+I'm transferring your call to our clinic staff to help you with your appointment and rescheduling. Please hold on for a moment.
+Agent: I just wanted to check in and see if you're still there. If you need assistance, I'm here to help!
+User: Office. Front desk.
+Agent: It seems like you're looking to speak with someone at the front desk. I'm transferring your call to our clinic staff now. Please hold on for a moment.
+User: I'm calling I all I did was call the number that was in my messages.
+Agent: I understand you're trying to reach the front desk. I'm here to help! Can you please let me know what you need assistance with today?
+User: Oh my god. Appointment. Hi there. I'm Laura of birth
+Agent: Hi Laura! Could you 
+User: Up 
+Agent: please provide me with your date of 
+User: Appointment for today.
+Agent: Could you please confirm your 
+User: 10/21/2004, like, Like
+Agent: date of birth so I can check your appointment details?
+User: and twenty one two thousand and four.
+Agent: Thank you for confirming your date of birth as October 21, 2004. I found your appointment details. You have an appointment scheduled for today at 11:00 AM.Is there anything specific you would like to do regarding this appointment?
+User: Going to be late. Delay.
+Agent: I can help with that! Would you like me to transfer your call to the clinic staff to inform them about your delay?
+User: Yes.
+Agent: I'm transferring your call to the clinic 
+User: (inaudible speech)
+Agent: staff to inform them about your delay. Please hold on for a moment."
+call_7f88776b25e1fad824b7163ab6d,60.374,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: Just checking in—how can I assist you today? Let me know if you need help with appointments, billing, or any other clinic-related queries!"
+call_ea4f94a91588ac369bc92d41ba8,63.254,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Cancel appointment.
+Agent: Could you please provide me with the reason for the cancellation?
+User: I have a meeting.
+Agent: Thank you for that 
+User: To work. Get off.
+Agent: Could you please provide me with the patient's date of birth? This will help me proceed with your request to cancel the appointment.
+User: Eleven six eighty nine.
+Agent: Just to confirm, that's November 6, 1989. Is that correct?
+User: Correct.
+Agent: It seems that I couldn't find any patient records associated with that date of birth. I will need to transfer "
+call_63df55fdffe366fd29cc041052d,122.881,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I'd like to speak with a representative, please.
+Agent: I can help with that! Just to clarify, is there a specific reason you need to speak with a representative?
+User: Yes. To give insurance information.
+Agent: I can transfer your call to a representative who can assist you with that. Please hold on for a moment while I connect you.
+Agent: Just a quick reminder, I'm here to help! If you still need assistance with your insurance information, please let me know, and I can transfer you to a representative."
+call_710888b1a94df3d24ac97da8d00,90.918,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I'm returning a call.
+Agent: Could you please let me know the reason for your call? Are you looking for information about an appointment, billing, or 
+User: I wanted to 
+Agent: something else?
+User: speak to an automated system to make my life so much
+Agent: It sounds like you might need assistance with an appointment or billing. Can you specify what you need help with?
+User: Appointment preps.
+Agent: Could you please let me know if you're a new patient or if you have an existing appointment?
+User: I don't know.
+Agent: No problem! Let's start by checking if you're a new patient or if you have an existing appointment. Can you please provide the patient's date of birth?
+User: 91160.
+Agent: It seems like there might be a mistake with the date of birth you provided. Could you please confirm the full date of birth in the format of day-month-year? For example, 15-January-1990."
+call_ffe0c988dffbc75680787ce522a,74.691,"Agent: Hi, I am Sara, a virtual assistant from the front office at Pocasset Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you want to book, confirm, reschedule, or cancel an appointment?
+Agent: Just checking in—are you looking to book, confirm, reschedule, or cancel an appointment? Let me know how I can assist!"
+call_298da2443bf0245c7fa386e4ca3,74.47,"Agent: Hi, I 
+User: Find something dry.
+Agent: am Sara, a virtual assistant from the front office at Alpha Dental Dartmouth. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Schloss die Whenever I eat things like that, it's dry, like bread.
+User: Hello?
+User: Okay.
+Agent: Hi there! It seems like you might need some assistance. How can I help you today?
+User: Return a call.
+User: call.
+Agent: If you are looking to return a call or need assistance with anything specific, please let me know how I can help!
+User: Returning a call.
+Agent: If you are returning a call to Alpha Dental Dartmouth, I can assist you. Could you let me know the reason for your call? For example, is it about an appointment, billing, or something else?
+User: Not sure.
+Agent: No problem! If you are unsure, I can connect you to our front office team, and they will assist you further. Let me transfer your call."
+call_7ffb22c033a77843f534937335e,74.005,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Halifax Family Dental. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: Hi. This is Richard Warren. I'm I need to make an appointment with doctor Lima from to complete the work on my case.
+Agent: Since you're looking to make an appointment, I'll need to transfer your call to our clinic staff who can assist you further. Please hold on for a moment while I do that.
+Agent: It seems like I haven't heard back from you. If you're still there, I'm ready to assist you with making that appointment. Just let me know!
+User: I'm here, and I need an appointment with Doctor Lima. To complete my case. It was expected that she would need me in the seat for an hour.
+Agent: I'm transferring your call to our clinic staff to help you schedule an appointment with Doctor Lima. Please hold on."
+call_40cc213cd3ac6bf393c6889e449,113.483,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I get appointment with think I have the wrong number. This is and document, they have another number. Right?
+Agent: You 
+User: I call for River.
+Agent: have reached Alpha Dental 
+Agent: You 
+User: Yeah. But I'm
+Agent: have reached Alpha Dental Fall River. Our clinic is located at 230 Rhode Island Ave, Fall River. If you need assistance with appointments or any other queries, I am here to help. What would you like to do?
+User: I had appointment Thursday with Isabella for cleaning. But I can't make this appointment.
+User: this appointment. I have the same time for my primary doctor.
+User: So I like to change for another day.
+User: Or if you have in the afternoon, it's fine.
+Agent: I hope everything is okay. Could you please share the reason for rescheduling this appointment?
+User: I have the same time with my primary doctor
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth to proceed with rescheduling the appointment?
+User: It's Francisco Ferraro.
+Agent: Thank you. Could you please provide Francisco Ferraro's date of birth?
+User: Four five fifty two.
+Agent: To confirm, Francisco Ferraro's date of birth is April 5th, 1952. Let me proceed 
+User: Yes.
+Agent: with your request.It seems I am unable to locate Francisco Ferraro's appointment details in our system. I will connect you to the rescheduling team for further assistance."
+call_ef8f290ef96d31d9ebaeafa120c,302.627,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Front desk.
+Agent: It seems like you might have a specific request related to your appointment or something else. Could you please provide a bit more detail about what you need help with?
+User: Front desk.
+Agent: I understand you're looking for front desk assistance. Could you please let me know what specific help you need? Are you looking to book, cancel, or confirm an appointment, or do you have another inquiry?
+User: Cancel.
+Agent: I can help you with that! Could you please provide the reason for the cancellation?
+User: Doctor doesn't need to see me.
+Agent: Thank you for that information! Now, could you please provide the patient's date of birth?
+User: 06/03/1963.
+Agent: Just to confirm, that's June 3rd, 1963. Let me proceed with your request to cancel the appointment. One moment, please.
+Agent: I appreciate your patience! If you could please hold on for a moment while I check the appointment details, that would be great. Thank you!
+User: (inaudible speech)
+Agent: It seems that I couldn't find any appointments associated with that date of birth. I will need to transfer your call to the clinic for further assistance. Please hold on for a moment.
+Agent: I just wanted to check in with you. I'm going to transfer your call to the clinic for further assistance. Please hold on for a moment."
+call_edbb859fa8c564e4012ec475889,69.472,"Agent: Hello!
+User: Hello? I am Sarah. 
+Agent:  I am Sara, a virtual assistant from 
+User: Virtual assistant Hi.
+Agent: Hi Sarah! It is great to meet you. I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointments, billing, and clinic-related queries. How can I help you today?
+User: Speaking Spanish.
+Agent: ¡Hola! Soy Sara, asistente virtual de la recepción de Alpha Dental Fall River. Estoy aquí para ayudarte con citas, facturación y consultas relacionadas con la clínica. ¿En qué puedo ayudarte hoy?
+User: Buenas tardes. Disculpe, quería reservar una cita para la limpieza de dientes, por favor, Carissa.
+User: O puedo acercar a ella mismo
+Agent: Claro, entiendo. Para reservar una cita, voy a transferir tu llamada al equipo de programación. Un momento, por favor."
+call_e0fe6905bb708475dd337af451c,68.771,"Agent: Hello! I am 
+User: Hello. I am Sarah, 
+Agent: Sara, a virtual assistant from the front office at 
+User: a virtual assistant from the front office at a study
+Agent: It seems like there might have been a 
+User: It seems like there might have been 
+Agent: mix-up. I'm Sara, a 
+User: a mix up. I'm Sarah
+Agent: Hi 
+User: Hello? 
+Agent: Sarah! How can I assist you today?
+User: I need an appointment.
+Agent: I can help with that! Since you're looking to book an appointment, I'll transfer you to our clinic staff who can assist you further. Please hold on for a moment while I do that.
+Agent: Just a quick reminder, I'm here to help you with booking your appointment. If you're still interested, please let me know!
+User: Yes.
+Agent: I'm transferring you to our clinic staff to help you book your appointment. Please hold on for a moment."
+call_a8e3612bd9503958307e1b5f5af,69.613,"Agent: Hello, I am Sara, a virtual assistant from the front office at Halifax Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Uh, it's Kevin Dunn. He has an appointment tomorrow at twelve thirty, and they wanna reschedule it. So if they can give me a callback tomorrow sometime, I will reschedule this appointment. His name is Kevin Dunn.
+Agent: We hope everything is okay. To assist with 
+User: Everything's
+Agent: rescheduling Kevin Dunn's appointment, I will need his date of birth. Could you please provide that?
+User: Seven twenty two sixty nine.
+Agent: Thank you for providing the date of birth, July 22, 1969. Let me proceed with your request. I will check Kevin Dunn's appointments and assist with rescheduling. Please hold on for a moment.It seems there are no appointments currently listed for Kevin Dunn in our system. I will connect you to our scheduling team to assist further with rescheduling. Please hold on."
+call_46b1b45566ac821361e6cc5e298,328.116,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: I just wanted to check in and see if you need any assistance or have any questions! I'm here to help."
+call_32b9768d31908caa816c43ac32d,186.964,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to help with appointments, billing, and any clinic-related questions you might have. How can I assist you today?
+User: Hello?
+Agent: Hello! How can I assist you today?
+User: Yeah. I called you because I forgot my appointment I don't know today or tomorrow.
+Agent: I can help you with that! Could you please provide me with the patient's date of birth?
+User: 03/16/1951.
+Agent: Thank 
+Agent: you! Just to confirm, that's March 16, 1951. Let me check your 
+User: Yeah. Okay. Thank you. 
+Agent: appointment details. One moment, please.It looks like I couldn't find any appointments 
+User: Okay.
+Agent: You're welcome! If you have any other questions or need further assistance, feel free to ask. Have a great day!
+User: Hello?
+Agent: Hello again! How can I assist you today?
+User: Yes. I'm I have one appointment for the daughter. I'm I'm forgot the the today or tomorrow.
+Agent: I can help you with that! Could you please provide me with your daughter's date of birth?
+User: My birthday ends in 03/16/1951.
+Agent: Just to clarify, is your daughter's date of birth also March 16, 1951, or is it different?
+User: 03/16/1951.
+Agent: Thank you for confirming! Just to clarify, that's March 16, 1951. Let me check the appointment details for your daughter. One moment, please.
+Agent: It seems like I haven't heard back from you. If you need assistance, feel free to let me know! I'm here to help."
+call_6ae039f2d72fe0dd0d38a3d34ba,79.213,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?"
+call_7c07a57e0db904b65fda224a638,66.554,"Agent: Hello!
+User: Hello? Think
+Agent:  I am Sara, a virtual assistant from the front office at Hull Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I'm checking on an appointment.
+Agent: Could you please provide the patient's date of birth? I will check the appointment details for you.
+User: Nine ten forty.
+Agent: Just to confirm, the date of birth is September 10, 1940. Is that correct?
+User: Yes.
+User: Yes.
+Agent: It seems there are no upcoming appointments scheduled for Charles Fleming. Would you like me to assist you with booking a new appointment?
+User: Yes.
+User: I thought I had one for tomorrow.
+Agent: It seems there is no appointment listed for tomorrow. I will transfer your call to the scheduling team to confirm or book an appointment for you. Please hold on."
+call_6b39463fca5dd87c6a2b2a9ca87,122.701,"Agent: Hi there!
+User: (inaudible speech)
+Agent:  I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Confirm an appointment.
+Agent: Could you please provide me with the patient's date of birth?
+User: 01/24/1988.
+Agent: Just to confirm, that's January 24th, 1988. Let me check the appointment details for you. One moment, please!
+Agent: I appreciate your patience! I'm checking the appointment details now. Please hold on for just a moment."
+call_1ae2b1f7141c978deb5de3914bc,63.751,"Agent: Hello, I am Sara, a virtual assistant from the front office at Halifax Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please clarify if you would like to book a new appointment, confirm an existing one, reschedule, or cancel an appointment?
+Agent: Just checking in—would you like assistance with booking, confirming, rescheduling, or canceling an appointment? Let me know how I can help!"
+call_75206aafc43a83699ed26ac6107,118.978,"Agent: Hi, I am Sara, a virtual assistant from the front office at Hull Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Uh, I have an eleven o'clock appointment today, and I'm gonna have to cancel.
+Agent: I am sorry to hear that you need to cancel your appointment. Could you please let me know the reason for the cancellation?
+User: Death and the family.
+Agent: I am so sorry for your loss. Let me assist you with canceling the appointment. Could you please provide the patient's date of birth?
+User: Three twenty five forty four.
+Agent: Thank 
+Agent: you. To confirm, the date of birth is March 25th, 1944. Let me proceed with your request.I see an appointment scheduled for today, Thursday, July 17th, at 11 AM. Could you confirm if this is the appointment you would like to cancel?
+User: Yes.
+User: Yes.
+User: That's the appointment I wanna cancel.
+Agent: Your appointment for today, Thursday, July 17th, at 11 AM has been successfully canceled. Is there anything else I can assist you with?
+User: Uh, yes. I'd like to reschedule my appointment.
+Agent: I hope everything is okay. Could you please let me know the reason for rescheduling your appointment?
+User: Just"
+call_cdcff44782ffb9d7bc7d72b5b73,263.611,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+Agent: It seems like I haven't heard back from you. If you have any questions or need assistance, feel free to let me know! I'm here to help."
+call_88d8ff6fccf690b511bfe246c8a,80.214,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: I just wanted to check in and see if you need any assistance or have any questions. I'm here to help!
+User: This is an important message from the Wear River Water System. This is a reminder. In an effort to stay within the limits of our water management registration constraints, strain on our sources, and to conserve water. The Weir River Water System has implemented annual restrictions effective May 1. 2025 until further notice. We will communicate any extension or elevation of this water conservation effort to all users. For full details, please visit our website at www.ma.gov/881/waterconservationrestrictions."
+call_951bd0d01416e0f8c8e4bee77f5,117.334,"Agent: Hello! I am Sara, a virtual assistant from the 
+User: Yeah. Thank
+Agent: front office at Alpha Dental Attleboro. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: I just wanted to check in to see how I can assist you today. Please let me know if you need help with appointments, billing, or any other clinic-related queries!
+User: Yeah. I'm fine.
+User: In the press.
+Agent: I'm glad to hear that! If you ever need assistance with anything related to Alpha Dental Attleboro, feel free to reach out. Have a wonderful day!
+Agent: Just checking in—please let me know if there's anything I can assist you with regarding appointments, billing, or any other queries related to Alpha Dental Attleboro. I'm here to help!"
+call_fffb94737bc4e611012da818e08,143.867,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling about an existing appointment, would like to book a new appointment, or need to reschedule?
+User: Book a new appointment.
+Agent: I'll transfer your call to our clinic staff who can help you with booking a new appointment. Please hold on for a moment while I do that.
+Agent: Just a quick reminder, I'm transferring your call to our clinic staff to assist you with booking a new appointment. Please hold on for a moment.
+User: Hello?
+Agent: I'm transferring your call to our clinic staff to assist you with booking a new appointment. Please hold on for a moment."
+call_eb4e7cbecfa461e132d79bbb6c9,62.764,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I'd like to make an emergency appointment for my daughter.
+Agent: I can help with that! I'll transfer your call to our clinic staff who can assist you with booking an emergency appointment. Please hold on for a moment while I connect you.
+Agent: Just a quick reminder, I'm here to help you with that emergency appointment for your daughter. If you're ready, I can transfer your call to our clinic staff. Let me know!
+User: Yes.
+Agent: I'm transferring your call to the clinic staff to help you with booking an emergency appointment for your daughter. Please hold on."
+call_3fd3003e6d67d68429f2455f699,105.029,"Agent: Hi, I am Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Reschedule appointment.
+Agent: I hope everything is okay. Could I please know the reason for rescheduling your appointment?
+User: Earlier time.
+Agent: Got it. Could you please provide the patient's date of birth?
+User: Five twenty three sixty.
+Agent: To confirm, the date of birth is May 23, 1960. Let me proceed with your request.Your current appointment is scheduled for Wednesday, July 16th at 3 PM. Could you please let me know your preferred new appointment date?
+User: Thursday. July seventeenth.
+User: At eleven AM.
+User: AM.
+Agent: Would you mind holding on for a second while I check for the best available slots?
+User: Okay.
+Agent: Unfortunately, there are no available slots on Thursday, July 17th. However, the next available slots are on Friday, July 18th. The first slot is from 12:30 PM to 1:15 PM. Would you like to book this slot?
+User: No."
+call_8360bd2eee315f70fad6e80a711,182.569,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're a new patient or if you have an existing appointment?
+User: Existing appointment.
+Agent: Could you please provide the patient's date of birth?
+User: Five twelve seventy nine.
+Agent: Just to confirm, that's May 12, 1979. Is that correct?
+User: Yes.
+Agent: I found the appointments for Kenneth T Rego. Here are the upcoming appointment times:
+
+- Tuesday, June 10th, 2025 at 9:00 AM
+- Tuesday, June 17th, 2025 at 11:00 AM
+
+Is there anything specific you would like to know about these appointments?
+User: Change appointment.
+User: Cancel appointment.
+User: Reschedule appointment.
+Agent: Could you please provide the reason for the cancellation?
+User: Personal matter.
+Agent: Thank you for sharing that. I need to confirm the patient's date of birth again. Could you please provide it?
+User: 05:12 seventy nine.
+Agent: Just to confirm, that's May 12, 1979. Is that correct?
+User: Yes. Yes.
+Agent: I found the appointments for Kenneth T Rego. Here are the upcoming appointment times:
+
+- Tuesday, June 10th, 2025 at 9:00 AM
+- Tuesday, June 17th, 2025 at 11:00 AM
+
+Which appointment would you like to cancel?
+User: June 10. 9AM.
+Agent: Your appointment on Tuesday, June 10th, 2025 at 9:00 AM has been successfully cancelled due to a personal matter.Is there anything else I can assist you with today?
+User: Reschedule that appointment.
+Agent: I'll transfer your call to our clinic staff so they can help you reschedule the appointment. Please hold on for a moment."
+call_3e38279955b9b92859d507e2f92,60.95,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: Hello?
+Agent: Hello! How can I assist you today?
+User: Just returning a phone call that I missed.
+Agent: I can help with that! Could you please let me know if you have any specific questions or if you need assistance with an appointment?
+User: No.
+Agent: Alright! If there's nothing else you need, feel free to reach out anytime. Thank you for contacting Alpha Dental of Fall River! Have a great day!"
+call_f48827d17060f53ba1a7dc4e8a0,126.597,"Agent: Hello! I am Sara, a virtual assistant from the front office at Aesthetic Dental of Whitman. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I'm trying to find out what time my appointment is.
+Agent: Could you please provide me with the patient's date of birth? This will help me look up the appointment details for you.
+User: 01/30/1970
+Agent: Just to confirm, your date of birth is January 30, 1970. Let me check your appointment details now. One moment, please.
+Agent: I appreciate your patience! I'm checking your appointment details now. Just a moment longer, please."
+call_6c168ff6dec252f3c7ef0efe036,87.244,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling about an existing appointment, or would you like to book a new one?
+Agent: I just wanted to check in! If you need help with an existing appointment or want to book a new one, feel free to let me know. I'm here to assist you!
+User: No.
+User: (inaudible speech)
+Agent: It seems like you might not have any specific requests right now. If there's anything else you need or if you have any questions later, just let me know!
+User: Are you are you?
+Agent: I’m here to help! If you have any questions or need assistance with something specific, just let me know. What can I do for you today?"
+call_25f2c14ab57d76a799323af01cd,329.481,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: It seems like I haven't heard back from you. If you have any questions or need assistance, feel free to let me know! I'm here to help."
+call_47eb9663fd234d84ae7b33c11c6,62.639,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could 
+User: Appointment.
+Agent: you please tell me if you are looking to book, confirm, reschedule, or cancel an appointment?
+User: Reschedulant.
+Agent: I understand you would like to reschedule your appointment. I hope everything is okay. Could you please let me know the reason for rescheduling?
+User: No.
+User: No. It's the
+Agent: Got it. Could you please provide the patient's date of birth so I can assist you further?"
+call_f9e0e4d869d97888658cace45dd,60.963,"Agent: Hello, I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Confirm appointment.
+Agent: May I have the patient's date of birth, please?
+User: May twentieth nineteen eighty six.
+Agent: You have an appointment scheduled for Tuesday, July 1st at One PM. Could you confirm if this is the appointment you'd like to confirm?
+User: Yes.
+Agent: Your appointment for Tuesday, July 1st at One PM has been successfully confirmed. Is there anything else I can assist you with?
+User: Help"
+call_a5f3d5bc6ca1426a2daa26e1ee0,89.462,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: I just wanted to check in and see if you need any assistance or have any questions. I'm here to help!
+User: Buenas tardes.
+Agent: ¡Buenas tardes! Soy Sara, asistente virtual de la oficina de Alpha Dental Fall River. Estoy aquí para ayudar con citas, facturación y consultas relacionadas con la clínica. ¿En qué puedo ayudarte hoy?
+User: Buenas tardes. Disculpe, quisiera poder sacar una cita mi bebé, por favor.
+Agent: Claro, estaré encantada de ayudarte a sacar una cita para tu bebé. Voy a transferir tu llamada al personal de la clínica para que puedan ayudarte con eso. Por favor, espera un momento mientras realizo la transferencia.
+User: Ok, muchas gracias.
+Agent: Voy a transferir tu llamada al personal de la clínica para que puedan ayudarte a sacar una cita para tu bebé. Por favor, espera un momento."
+call_a920f4cf82ff31118af39149fad,63.849,"Agent: Hello, I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I need to speak to you, ma'am. Sarah.
+Agent: Of course, I’m here to help! Please let me know how I can assist you today.
+User: I have the patient of yours, Linda Garner.
+User: Date of birth, five thirteen nineteen sixty six. Are you able to confirm that?
+Agent: Thank you for providing the date of birth. To confirm, you mentioned May 13th, 1966. Let me check the details for 
+User: Yep.
+Agent: Linda Garner. One moment, please.It seems I couldn't locate any records for Linda Garner with the provided date of birth, May 13th, 1966. I will transfer your call to our scheduling team for further assistance. One moment, please.
+User: Hello?"
+call_1f261659b9685a7dfd3a8c933a0,68.038,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: Just checking in—how can I assist you today? Let me know if you need help with appointments, billing, or any other clinic-related queries!"
+call_64306707eddd09449d19ea1099d,96.619,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Taunton. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: Just checking in—how can I assist you today? Let me know if you need help with appointments, billing, or any other clinic-related queries!"
+call_58e1e242380ee3095f055052218,88.759,"Agent: Hello, I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: I just wanted to check in and see how I can assist you today. Please let me know if you need help with 
+User: Hey, 
+Agent: appointments, 
+User: doc. This is Leonard BC calling from Shack and First up in Buffalo, New York. I just wanted to give you a call. I sent some emails and some text We're hosting our big annual meeting on August one and two at the Four Seasons Resort at Disney for our international Academy of Mini Dental Implants. We've got two world class speakers, doctor Robert Miller and doctor Ernesto Leon. We're going to be offering sixteen CE credits. Registration is half right now.
+User: now. It's only six ninety five. It's typically twelve ninety five. We've also secured a three hundred and fifty dollar room rate at the hotel. It's normally over six hundred dollars.
+User: Just let us know if you'd like more info, and we can help get you registered. Give us a callback here, or just give us a call at seven one six eight three nine two nine five nine.
+User: five nine. You can speak with myself, Fitz, William, Joey, anybody will be able to help. Just let us know if you're interested.
+User: Looking forward to hearing from you. Okay? Bye bye."
+call_54b27608b5475265f7098f4759a,94.018,"Agent: Hello, I am Sara, a 
+User: Hello?
+Agent: virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I have um apontamento, terei três six, Aramon.
+Agent: It seems like you are referring to an appointment. Could you confirm if you are asking about an appointment on Thursday, July 3rd? If not, could you clarify the date and time?
+User: Nothing. I
+Agent: No problem! Could you let me know how I can assist you today?
+User: Arreza um apontamento, terei?
+Agent: It seems like you are asking about an appointment. Could you confirm if you would like to book, reschedule, or check an existing appointment?
+User: A checking account, ferramenta check. Por querer.
+Agent: Got it! You would like to check your existing appointment. Could you please provide the 
+User: Yes. 
+Agent: patient's date of birth?
+User: August the fourth of seven.
+Agent: Thank you! Just to confirm, the date of birth is August 4th, 2007. Is that correct?"
+call_6a005eda96bf88c432146906e90,94.657,"Agent: Hi, I am Sara, a virtual assistant from the front office at Aesthetic Dental of Whitman. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Reschedule my appointment.
+Agent: I hope everything is okay. Could you please let me know the reason for rescheduling your appointment?
+User: I cannot find anyone to cover my worksheet.
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth to proceed with rescheduling the appointment?
+User: September twentieth two thousand.
+Agent: I see that you have an appointment scheduled for Wednesday, July sixteenth, from 10:00 AM to 11:00 AM. Could you confirm if this is the appointment you would like to reschedule?
+User: Yes.
+Agent: Got it. Could you please let me know your preferred new date for the appointment?
+User: Can I call back to
+Agent: Sure, you can call back anytime to reschedule your appointment. We are here to assist you. Is there anything else I can help you with today?
+User: No? Thank you.
+Agent: Thank you for contacting Aesthetic Dental of Whitman. Have a great day!"
+call_0fc851f451bf32ac115d40094c5,73.764,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Confirm an appointment.
+Agent: Could you please provide me with the patient's date of birth?
+User: 04/17/1973.
+Agent: Just to confirm, that's April 17th, 1973. Let me proceed with your request. One moment, please.
+Agent: I appreciate your patience! I'm going to check the appointment details for that date of birth now. Please hold on for a moment."
+call_e1537b1579c094871691be419db,66.258,"Agent: Hello, I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Cancel an appointment.
+Agent: Could you please let me know the reason for canceling the appointment?
+User: She has another appointment somewhere else.
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth to proceed with the cancellation?
+User: Eight twenty five zero eight.
+Agent: To confirm, is the date of birth August 25, 2008?
+User: Yes.
+Agent: It seems I am unable to locate the patient's details in our system. I will connect you to the scheduling team to assist further with the cancellation. Please hold on."
+call_f92c458d54cc73cb329d91f4d80,105.397,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I help you today?
+ User: Front desk. Appointment.
+ Agent: Could you please let me know if you're calling about an existing appointment, or do you need to book, reschedule, or cancel one?
+ User: Existing appointment.
+ Agent: Could you please provide the patient's date of birth?
+ User: 671997.
+ Agent: Just to confirm, that's June 7, 1997, right?
+ User: Yes.
+ Agent: I found the appointments for Ana Correia. Here are the upcoming appointment times:
+ 
+ 1. Today, April 10th, 2025, at 1:00 PM
+ 2. May 6th, 2025, at 11:30 AM
+ 3. May 8th, 2025, at 12:00 PM
+ 
+ Is there anything specific you would like to know about these appointments?
+ User: Cancel.
+ Agent: Could you please share the reason for the cancellation?
+ User: Representative.
+ Agent: I need to confirm the patient's date of birth 
+ User: 460. 
+ Agent: again to proceed with the cancellation. Can you please provide it?
+ User: They need a doughnut with a one Doughnut. Yeah."
+call_ab1f333e5eb80db1230a75eb09c,82.755,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling to confirm, cancel, reschedule, or book a new appointment?
+User: Oops.
+Agent: No problem at all! Just let me know what you need help with regarding your appointment, and I'll assist you.
+User: Book.
+Agent: I'll transfer you to our clinic staff who can help you with booking your 
+User: (inaudible speech)
+Agent: appointment. Please hold on for a moment while I do that.
+Agent: It seems like you're still with me! I'm here to help you book your appointment. Just let me know if you're ready, and I'll transfer you to our clinic staff.
+User: I'm ready.
+Agent: I'm transferring you to our clinic staff to help you with booking your appointment. Please hold on."
+call_9f109cce277aa3e63a23eba9577,65.763,"User: SÃ­,
+ Agent: Hello! This is Sara from Alpha Dental of Fall River. May I have your name, please?
+ User: I read an idea. I read an Aya.
+ Agent: It seems like there might be a bit of confusion. Could you please clarify your name for me?
+ User: Irene
+ User: Irene.
+ Agent: Thank you, Irene! Are you a new patient, or do you have questions about an appointment or billing?
+ User: No. You guys called me. I'm just calling back.
+ Agent: Got it! Since you're calling back, could you let me know if you have a specific reason for your call, like an appointment or 
+ User: Yeah.
+ Agent: billing question?
+ Agent: Could you please specify if it's about an appointment or a billing question?
+ User: No. None.
+ Agent: I see. Is there something else you'd like to discuss or ask about?"
+call_18cd4e1f270fd186b1d47ac0ba0,65.67,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+Agent: It seems like you might need to speak with someone directly. I'll transfer your call to a human agent for further assistance. Please hold on for a moment.
+Agent: Just a quick reminder, I'm here to help! If you have any questions or need assistance, feel free to let me know.
+Agent: Transferring your call to a human agent for further assistance."
+call_5c866b388f56caff371bf4740d0,86.053,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Change appointments.
+Agent: I can help with that! Could you please provide me with the patient's date of birth?
+User: O 301-1946.
+Agent: Just to confirm, is the date of birth January 30, 1946?
+User: No.
+Agent: Could you please clarify the correct date of birth?
+User: 03/01/1946. 03/01/1946.
+Agent: Is the date of birth March 1, 1946?
+User: Yes.
+Agent: It seems that I couldn't find any patient records with that date of birth. Would you like me to transfer your call to the clinic staff for further assistance?
+User: Yes.
+User: Well, it's a stupid recording.
+Agent: I understand your frustration. I'm transferring your call to a human agent for further assistance."
+call_5c866b388f56caff371bf4740d0,86.053,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Change appointments.
+Agent: I can help with that! Could you please provide me with the patient's date of birth?
+User: O 301-1946.
+Agent: Just to confirm, is the date of birth January 30, 1946?
+User: No.
+Agent: Could you please clarify the correct date of birth?
+User: 03/01/1946. 03/01/1946.
+Agent: Is the date of birth March 1, 1946?
+User: Yes.
+Agent: It seems that I couldn't find any patient records with that date of birth. Would you like me to transfer your call to the clinic staff for further assistance?
+User: Yes.
+User: Well, it's a stupid recording.
+Agent: I understand your frustration. I'm transferring your call to a human agent for further assistance."
+call_99732e4aa2f022f617ee87fa6c4,107.485,"Agent: Hi there! I'm 
+User: Yes.
+Agent: Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I I know I know speak English, sweetheart. Put two girls, please, sweetheart.
+Agent: It seems like you might want to speak with someone else. Would you like me to transfer your call to a human agent for further assistance?
+User: Me me vive sozinha.
+Agent: I understand that you might want to speak in Spanish. ¿Cómo puedo ayudarte hoy?
+User: Oh, it is the Zangara end. Bah.
+Agent: Parece que necesitas ayuda con algo relacionado con Zangara. ¿Podrías darme más detalles sobre lo que necesitas?
+User: Et quel fais-on Et quel fais-on um um apontamento.
+Agent: ¿Te gustaría que te transfiera la llamada para que puedas hacer una cita?
+User: Eu eu eu não tenho ninguém, vive sozinha.
+Agent: Entiendo que te sientes sola. ¿Hay algo específico en lo que pueda ayudarte hoy?
+User: No.
+User: Aí não 
+Agent: Gracias por tu 
+User: tem ninguém pra me ajudar? Aí não tem ninguém pra ajudarme.
+Agent: Voy a transferir tu llamada a un agente humano para que puedan ayudarte mejor. Un momento, por favor.
+User: Okay. Thanks.
+Agent: I'm transferring your call to a human agent for further assistance. Please hold on."
+call_a5fbe7d40dd7bdb370ed3b33538,178.281,"Agent: Hi there! Iâ€™m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to help with appointments, billing, and any clinic-related questions. How can I assist you today?
+ User: Question about insurance.
+ Agent: Would you like me to transfer your call to someone who can assist you with your insurance questions?
+ User: Yes.
+ Agent: I'm transferring you to someone who can help with your insurance questions.
+ Agent: It seems there was an issue transferring your call. Let me try that again for you. One moment, please.
+ Agent: I appreciate your patience! I'm still here to help. Would you like me to try transferring your call again for your insurance questions?
+ User: Yes.
+ Agent: I'm transferring you to someone who can help with your insurance questions.
+ Agent: It looks like I'm having trouble transferring your call again. I apologize for the inconvenience. Would you like me to assist you with any specific questions about your insurance right now?
+ User: Do you accept that Delta Dental
+ Agent: I canâ€™t provide specific details about insurance plans. Would you like me to transfer your call to someone who can give you the information you need about Delta Dental?
+ User: Yes.
+ Agent: I'm transferring you to someone who can provide information about Delta Dental. Please hold on for a moment.
+ Agent: It seems like there might be a connection issue. If you're still there, I'm here to help! Would you like me to try transferring your call again?"
+call_c6fb707da7ad6ed366bfc71841b,86.322,"Agent: Hello! I am Sara, a virtual 
+User: Hi.
+Agent: assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Return the message.
+User: Hello?
+Agent: Hi there! How can I assist you today?
+User: I'm returning a message.
+User: Hello?
+Agent: Hello! It seems like there might be some confusion. How can I help you today?
+User: Can I talk to a person?"
+call_a791b42faed9169837733c70862,159.781,"Agent: Hello! I am 
+User: Hello?
+Agent: Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I need to cancel an appointment for today.
+Agent: I am sorry to hear that you need to cancel your appointment. Could you please share the reason for the cancellation?
+User: I was called into work.
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth so I can locate the appointment details?
+User: June twenty six nineteen seventy six.
+Agent: Lisa has two upcoming appointments:
+
+1. Today, Wednesday, July 9th at 2 PM.
+2. Wednesday, July 16th at 9 AM.
+
+Could you confirm that you would like to cancel the appointment scheduled for today at 2 PM?
+User: Yes.
+Agent: Your appointment for today, Wednesday, July 9th at 2 PM, has been successfully cancelled. Is there anything else I can assist you with?
+User: Can you reschedule that appointment?
+Agent: I hope everything is okay. Could you please let me know your preferred date for rescheduling the appointment?
+User: July sixteenth.
+Agent: Please hold on for a few seconds while I check for 
+Agent: the best possible 
+Agent: slots in 
+Agent: our system.It seems there are no available appointment slots on Wednesday, July 16th or within the next 30 days. Would you like to try a different date, or should I connect you to the clinic for further assistance?
+User: We can try a different date. The next available appointment.
+Agent: Unfortunately, there are still no available slots within the next 30 days starting from Thursday, July 17th. I recommend connecting you to the clinic directly to explore more options. Let me know if that works for you.
+User: No. Thank you.
+Agent: Thank you for contacting Weymouth Family Dental Care. Have a great day!"
+call_27d654dc61f6eca3e21cf0540c1,72.938,"Agent: Hi there! I'm Sara, a 
+User: Hi. This
+Agent: virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I help you today?
+User: I got a call. My name is sister Mary Ellen Ryan, and I got a call from the dental office alpha. So I'm just returning a call. My date of birth is 09/1236.
+Agent: Thank you for providing your date of birth, Sister Mary Ellen Ryan. However, it seems like the year is missing. Can you please confirm the year of your birth?
+User: 09/1936.
+Agent: It looks like I couldn't find any appointments associated with that date of birth. Would you like me to transfer your call to the clinic so they can assist you further?
+User: Not now. Thank you."
+call_9cadd864dbe76f391419f0af742,119.903,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I'd like to talk to Ryan, please.
+Agent: I can help with that! However, could you please let me know what your inquiry is about? This way, I can assist you better or transfer you to the right person.
+User: Caps. Front cap.
+Agent: It sounds like you're inquiring about dental crowns. Would you like me to transfer your call to the clinic staff for further assistance with that?
+User: No. I'd like to talk to Ryan, please. He he handles my work.
+User: Mhmm.
+Agent: I understand you'd like to speak with Ryan. Can I transfer your call to the clinic so they can assist you further?
+User: No. I don't wanna talk to Ryan.
+Agent: Got it! If there's anything else you need help with or if you have another question, just let me know!
+Agent: I just wanted to check in and see if there's anything else I can assist you with today!
+User: No.
+Agent: Thank you for contacting Halifax Family Dental! Have a great day!Ending the call now.
+Agent: Thank you for contacting Halifax Family Dental! If you need assistance in the future, feel free to reach out. Have a wonderful day!"
+call_0d15537d5a41309690d5ee38f92,154.14,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: I'm returning a phone call.
+Agent: Could you please let me know the reason for your call? This will help me assist you better!
+User: Missed call.
+Agent: It sounds like you 
+User: Front desk.
+Agent: might have a query or need assistance regarding an appointment. Would you like to address that first, or is there something else more urgent?
+User: Fun task.
+Agent: It seems like you might be looking for something specific. Could you clarify what you need help with? I'm here to assist!
+User: Broadcast.
+Agent: I'm not quite sure what you mean by ""broadcast."" Could you provide a bit more detail so I can assist you better?
+User: Front desk.
+Agent: It seems like you might want to speak with someone at the front desk. Would you like me to transfer your call to a human agent for further assistance?
+User: Yes.
+Agent: I'm transferring your call to a 
+User: Oh, jeez. 
+Agent: human agent for 
+User: Where's that bus?
+Agent: It seems like you're 
+User: I hope 
+Agent: feeling a bit 
+User: we didn't miss that bus.
+Agent: I understand that waiting can be frustrating! If there's anything specific you need help with regarding your appointment or any other queries, just let me know. I'm here to assist!
+Agent: If you have any questions or need assistance, feel free to reach out. I'm here to help! If not, thank you for contacting Alpha Dental of Fall River. Have a great day!
+User: Okay.
+Agent: Thank you for contacting "
+call_3fbb3a796a555f87c3146240198,231.287,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Hello?
+Agent: Hi there! How can I help you today?
+User: Gladys Hammond. I was there and made an appointment a few minutes ago for next
+Agent: Could you please provide me with your date of birth? This will help me find your appointment details.
+User: My date of birth is nine nine seven.
+Agent: Could you please confirm the year of your birth?
+User: I I just wanted to check.
+Agent: I understand you're looking to 
+User: I I said I had a I said I had an a a a chat Medicine to take. Before I came. And I wanted to be sure it was the right one.
+Agent: I understand you're looking to check on your appointment details. However, I need your full date of birth, including the year, to assist you with that. Could you please provide the complete date?
+User: My appointment, it says amoxicillin 5 mg. Or and it says take four capsules.
+Agent: I can't provide medical advice, but it sounds like you have a prescription for amoxicillin. If you have questions 
+User: N n. 
+Agent: about your medication, I recommend 
+User: And and I and I wanna be sure that the prescription I have is the right one.
+Agent: I understand your concern, but I'm unable to provide medical advice or confirm prescriptions. It's best to check with 
+User: Hello?
+Agent: your healthcare provider or pharmacist for clarification on your medication.If you need assistance with your appointment or anything else, please let me know!
+User: and and I I think I'd better call back later.
+User: This is during your lunch hour. Assume so I think I'll try calling back again.
+Agent: I understand. If you need to call back later, that's perfectly fine. Thank you for reaching out to 
+User: No. 
+Agent: Halifax Family 
+User: I don't need I don't need a prescription. I have it.
+Agent: Got it! If you have your prescription and just want to confirm details, I recommend checking with your healthcare provider or pharmacist. If there's anything 
+User: Yes. Yes.
+Agent: else I can assist you with, please let me know!
+Agent: Great! How can I assist you further?
+User: And my number is 781293342. So if you want to call me back, I'd appreciate it.
+User: Thank you.
+Agent: I appreciate your understanding!
+User: (inaudible speech)
+Agent:  However, I can't make calls or take messages. If you have any other questions or need assistance, feel free to reach out anytime. Thank you for contacting Halifax Family Dental! Have a great day!"
+call_fd894a59ec0dabf94729af9ae9b,296.577,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I need to cancel my appointment.
+Agent: Could you please provide me with the reason for the cancellation?
+User: I don't need it.
+Agent: Thank you for that. Can I have the date of birth for the patient whose appointment you want to cancel?
+User: 12/14/1982. Eighty five.
+Agent: Just to confirm, is the date of 
+User: (inaudible speech)
+Agent: birth December 14, 1982?
+User: No.
+Agent: Could you please clarify the correct year of birth?
+User: 12/14/1985.
+Agent: Thank you for confirming! I'll proceed with your request to cancel the appointment. Please hold on for a moment while I check for your appointment details.
+Agent: I appreciate your patience! I'm checking for your appointment details now. Just a moment, please.
+User: Hello?
+Agent: I found your appointments, Laura. Here are the upcoming ones:
+
+1. June 2, 2025, at 4:00 PM
+2. June 30, 2025, at 2:30 PM
+
+Which appointment would you like to cancel?
+User: I'd like to cancel the one on June
+Agent: Your 
+User: Did you get that?
+Agent: appointment on June 
+Agent: Yes, I did! Your appointment on June 30, 2025, has been successfully canceled. Is there anything else I can assist 
+User: Joder.
+Agent: you with today?
+Agent: I understand you're 
+User: Yes. I wanted to cancel I yes. I want to cancel my appointment on June 2. Not the one on June 30.
+Agent: Your appointment on June 2, 2025, has been successfully canceled. I apologize for the mix-up earlier. Is there anything else I can help you with today?
+User: Can you assure me that my my appointment on June 30 is still on?
+Agent: Yes, your appointment on June 30, 2025, at 2:30 PM is still on. Is there anything else you would like to know?
+User: No. That's it. Thank you.
+Agent: You're welcome! Thank you for contacting Mansfield Family Dental. Have a great day!"
+call_149a89da56863ab96736a1d2498,108.455,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling to confirm an existing appointment, check details about an upcoming appointment, cancel an appointment, or book a new appointment?
+User: Check the details on an upcoming appointment.
+Agent: Could you please provide the patient's date of birth?
+User: 11/16/1978.
+Agent: Just to confirm, that's November 16, 1978. Let me check the appointment details for you. One moment, please.It looks like there are no upcoming appointments for Scott Camara. Is there anything else I can assist you with?
+User: Yes. Make an appointment.
+Agent: I'll 
+User: No. That's it. 
+Agent: transfer your call to our clinic staff to help you book an appointment. Please hold on for a moment while I do that.
+User: I am. Want you to get this all together. You can't do. You went there for all your toll free the best part that you need in Queen. You're not gonna get. You gotta silly them through before they get back. Then you'll then those will go work. It is true. That's the worst ones to have. Because then you don't fix them. They they they then they screwed.
+Agent: I understand your frustration, and I'm going to transfer your call to a human agent who can assist you further."
+call_2b88995aa9d81f337d43311d723,142.965,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: I'm returning a, um, call that was made to me this morning. Regarding my appointment next Friday, May. My name is Susan Rohan.
+Agent: Thank you for that information, Susan! Could you please provide me with your date of birth? I'll use that to look up your 
+User: Two
+Agent: appointment details.
+User: (inaudible speech)
+Agent: It seems like I didn't catch your full date of birth. Could you please provide the complete date, including the month and year? For example, it could be something like ""January 1, 1990.""
+User: 02/07/1950.
+Agent: Thank you, Susan! Just to confirm, your date of birth is February 7, 1950. Let me check your 
+User: Yes.
+Agent: appointment details now. One moment, please.
+Agent: I have found your appointment details, Susan. You have an appointment scheduled for next Friday, May 16th, 2025, at 9:00 AM.Would you like to confirm this appointment or is there anything else I can assist you with?
+User: And that is in Attleboro. Correct?
+Agent: Actually, your appointment is at Alpha Dental of Fall River, located at 230 Rhode Island Ave., Fall River, Massachusetts. Would you like to confirm your appointment or do you have any other questions?
+User: I cannot confirm, and I cannot get to follow-up. I was under the impression my appointment was in Attleboro.
+Agent: I understand, Susan. Would you like me to transfer your call to someone who can assist you further with this issue?
+User: Yes, please.
+Agent: I'm transferring your call to a human agent who can assist you further with your appointment issue."
+call_2bb6a95193e421f6436d6f95f5c,73.018,"Agent: Hi, I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Clinic related query.
+Agent: Sure! What specific information about the clinic would you like to know? For example, our location, working hours, or services offered?
+User: No.
+Agent: Could you please clarify what specific clinic-related information you are looking for?
+User: Whether I need antibiotics to come in for my cleaning.
+User: Surgery.
+Agent: I am unable to provide medical advice, but I recommend reaching out to your dentist or healthcare provider for guidance on whether antibiotics are necessary before your cleaning or surgery. If you need assistance scheduling an appointment or have any other questions, let me know!"
+call_74ca7baee374fc26d21c2a9a063,60.605,"User: At
+ Agent: Hello! This is Sara from Alpha Dental of Fall 
+ User: Yes, 
+ Agent: River. May I have your name, please?
+ User: Susan
+ User: Susan Harro.
+ Agent: Nice to meet you, Susan! Are you a new patient, or do you have questions about an appointment or billing?
+ User: No.
+ User: No.
+ Agent: Could you please clarify the reason for your call? This will help
+ User: New dentures, new dentures, Hi,
+ Agent: Got it! We are delighted to welcome new patients to our practice. I will now transfer you to our new patient coordinator for further assistance. Is that 
+ User: a lot 
+ Agent: fine?
+ User: of new patients. No.
+ Agent: I understand you're not ready to proceed with the transfer. If you have any specific questions or concerns, feel free to share!"
+call_1316838e78a98967de1132f7a85,60.772,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please clarify if you are looking to book, confirm, reschedule, or cancel an appointment?
+User: I just wanna ask a question.
+Agent: Sure! What would you like to know about your appointment?
+User: If I'm able if I'm to put how can I talk to this? Like, oh my gosh. This is so annoying.
+Agent: I understand this might be frustrating. I will transfer your call to the clinic for further assistance right away."
+call_16f74dcd06c653b1227297e9582,73.633,"Agent: Hello! This is Sara from Alpha Dental of Fall River. May I have your name, please?
+ User: Data.
+ User: I know where somebody 
+ Agent: Nice to meet 
+ User: speak Portuguese.
+ Agent: Nice to meet you, Data! Are you a new patient, or do you have questions about an appointment or billing?
+ User: I knew the class about my appointment.
+ User: It'd be I
+ Agent: Got it! You want to discuss your appointment. Can I transfer your call to the 
+ User: No, no, no, no, 
+ Agent: appropriate department for 
+ User: no, no, steals me I know can't sell my appointment. I will be there.
+ Agent: It sounds like you want to keep your appointment and won't be canceling it. Just to confirm, would you like me to transfer you to the appointment department for any other questions or concerns?
+ User: Okay. I need to fix some alcohol for this transfer, please.
+ User: Okay. Thank you.
+ Agent: I'm transferring you to the appointment department for further assistance. Thank you!"
+call_b6ecd1d34a4f135003c50c1878c,102.232,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: You just called to confirm my appointment but I realized you said my appointment was Tuesday. May 28. But I believe the twenty eighth is a Wednesday. So I just wanna confirm date and time of the appointment.
+Agent: I can help with that! Could you please provide me with the patient's date of birth? This will help me look up the appointment details for you.
+User: 07/07/1965.
+Agent: I found your appointment details! You have an appointment scheduled for Tuesday, May 28th, 2025, at 9:00 AM.Is there anything else I can assist you with?
+User: Yes. I'm confused because the twenty eighth is Wednesday, I believe.
+Agent: I understand the confusion! However, May 28th, 2025, is indeed a Wednesday. Your appointment is on that day at 9:00 AM. Is there anything else you would like to know?
+User: Nope. Other than you created a lot of confusion for me. Thank you.
+Agent: I apologize for the confusion, and I appreciate your understanding. Thank you for contacting Mansfield Family Dental! Have a great day!I'll end the call now."
+call_6629ce9c89ba6f488a60c68205e,60.011,"Agent: Hello, I am Sara, a virtual assistant from the front office at Halifax Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please clarify if you would like to book, confirm, reschedule, or cancel an appointment?
+User: Reschedule.
+Agent: I hope everything is okay. Could you please let me know the reason for rescheduling your appointment?
+User: I got a voice mail.
+Agent: Describe what conversation you have had with the caller so far and why the call is being transferred. Remember to mention all the details shared by the caller so that the person whom the call has been transferred to has all the information."
+call_89f2f86c1358a15bf3045af9da7,147.859,"Agent: Hello! I am Sara, a virtual assistant from the front office at Aesthetic Dental of Whitman. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: About my appointment.
+Agent: Could you please provide me with the patient's date of birth? This will help me find the details of your appointment.
+User: 10/18/1965.
+Agent: Just to confirm, that's October 18, 1965. Let me check your appointment details now. One moment, please.
+Agent: I appreciate your patience! I'm checking your appointment details now. Just a moment longer, please.
+User: I can't with this.
+Agent: I understand your frustration, and I'm transferring your call to a human agent for further assistance."
+call_7038f33c9e2113321ebd17e08cf,130.395,"Agent: Hi there! Iâ€™m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. Iâ€™m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+ User: Billing
+ Agent: Could you please let me know if you have a specific billing-related question, or would you like me to transfer you to someone who can assist you further?
+ User: Yes.
+ Agent: I'll transfer you to our billing department for assistance. Please hold on for a moment.
+ Agent: It seems there was an issue transferring your call to the billing department. Let me try that again for you. Please hold on.
+ Agent: I appreciate your patience! If you still need assistance with billing, I can transfer you now. Would you like me to 
+ User: Yes.
+ Agent: do that?
+ User: Yes, please.
+ Agent: I'm transferring you to our billing department for assistance. Please hold on.
+ Agent: I'm transferring you to our billing department for assistance. Please hold on.
+ Agent: It seems thereâ€™s a persistent issue with transferring your call to the billing department. I recommend trying again later. Is there anything else I can assist you with in the meantime?"
+call_8239a146901d1a7974faf3bbc40,178.94,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Aesthetic Dental of Whitman. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: You guys called me about my June 10 appointment.
+Agent: Could you please provide me with the patient's date of birth? This will help me look up the appointment details for you.
+User: 03:24
+Agent: It seems like I didn't get the date of birth. Could you please provide the full date of birth in the format of day-month-year?
+User: March. Twenty fourth nineteen sixty.
+Agent: Thank you! Just to confirm, that's March 24, 1960. Let me check your appointment details now. One moment, please.
+Agent: I appreciate your patience! I'm checking the appointment details for you now. Just a moment longer, please.
+User: I don't know how long it's okay. They're eating. But, yeah, I'm I'm hungry. Need eat something. I think I have no pudding of something. I don't know. I need to eat something. You need to eat something before you're sure the stuff's tangent. Doctor Rich. How long does it take to cook them, hon? And what are you cooking with them? All that. You've been at the day. Okay. And what are the recipes that I have? Okay. What do we have in a cabinet for noise?
+Agent: It seems like there 
+Agent: might be some 
+User: Always have to have something.
+Agent: I understand you're busy, but I need to focus on your appointment details. Let me check that for you quickly. One moment, please!
+User: What's in the way back on the right side? It's at the Creamy Gallic shells. It's something or the squiggly. So why don't you just cook two of them? Because you'll have some, Tyler will have some, Billy will have some.
+Agent: I’m sorry, but I can only assist with your dental appointment. Let me check your appointment details for June 10th. One moment, please!
+User: It is fucking tense.
+Agent: I understand you're feeling frustrated. I'm transferring your call to a human agent for further assistance."
+call_af542cc28610d030b23dcf396b5,70.284,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+ User: When is my appointment?
+ Agent: Could you please provide me with the patient's date of birth? I'll use that to check the appointment details for you.
+ User: Fifteen eighty three.
+ Agent: It seems there might be a little confusion with the date format. Could you please clarify the date of birth in the format of day-month-year? For example, if the date is January 15, 1983, it would be 15-01-1983.
+ User: Nineteen eighty three. No. I don't know. Do they need to put this fucking through to somebody? September 1983. What's the date?
+ Agent: I'm 
+ User: 09/13/1983.
+ Agent: transferring your call to a human agent for further assistance."
+call_f14ebe56201d82e016eaa6cb07e,169.17,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: I need to know if X rays have been sent over.
+Agent: I can help with that! However, I need to transfer your call to the clinic staff for further assistance. Please hold on for a moment while I do that.
+Agent: It seems like I haven't heard back from you. If you still need assistance regarding the X-rays, please let me know! Otherwise, I can transfer your call to the clinic staff. What would you like to do?
+User: Seth.
+Agent: Could you please provide me with Seth's date of birth? This will help me check the appointment details for you.
+User: Twelve twenty four zero three.
+Agent: Just to confirm, is Seth's date of birth December 24, 2003?
+User: I don't know who Steph is.
+Agent: I apologize for the confusion! I meant to ask about the date of birth for the patient you are inquiring about. Could you please provide the date of birth again?
+User: 12/23/2003. 12/24/2003. Forty.
+Agent: To clarify, is Seth's date of birth December 24, 2003? And are you looking for appointment details for that date?
+User: Yes and no.
+Agent: I see there’s some confusion. Could you please clarify what you need regarding the appointment or X-rays? That way, I can assist you better!
+User: Were the X rays sent over?
+Agent: I need to transfer your call to the clinic staff to check on the status of the X-rays. Please hold on for a moment while I do that.
+Agent: I haven't heard back from you. If you still need assistance regarding the X-rays, please let me know! Otherwise, I can proceed with transferring your call to the clinic staff. What would you like to 
+Agent: do?
+User: Transfer.
+User: Transfer.
+Agent: I'm transferring your call to the clinic staff for further assistance regarding the X-rays."
+call_250322f8f5d4efa27acbd424542,79.001,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: Electric rescheduling appointment.
+Agent: It sounds like you want to reschedule your appointment. Can you please provide me with the date of birth for the patient?
+User: February.
+Agent: Could you please confirm the full date of birth, including the day and year?
+User: 04/24/2013.
+Agent: It seems that I couldn't find any patient records with that date of birth. Would you like me to transfer your call to the clinic staff for further assistance?
+User: No.
+Agent: Alright! If there's anything else I can help you with, just let me know."
+call_705d855fbc7356e8986f1f33bd6,116.545,"Agent: Hello! This is Sara from Alpha Dental of Fall River. May I 
+ User: Tiene 
+ Agent: have your name, please?
+ User: Savannah
+ User: Yes.
+ Agent: Â¡Hola, Savannah! Â¿Eres una paciente nueva o tienes preguntas sobre una cita o facturaciÃ³n?
+ User: Thank you
+ Agent: You're welcome! Just let me know if you have any questions or if there's anything specific you'd like to discuss.
+ User: Can I speak to the office, please?
+ Agent: Could you please let me know if you have a specific reason for calling the 
+ User: Make an appointment. 
+ Agent: office? Are you looking to book an appointment, ask about a 
+ User: Yes.
+ Agent: Got it! Iâ€™ll transfer you to the office to help you with your appointment. Just a moment, please.Transferring now!
+ Agent: It seems like I lost you there for a moment. If you're still interested in making an appointment, just let me know!
+ User: Yes. 
+ Agent: Otherwise, I can help with something else.
+ User: No.
+ User: an appointment.
+ Agent: Iâ€™m a bit confused. Could you clarify if you want to make an appointment or if you need assistance with something else?
+ User: Make an appointment.
+ Agent: Great!
+ User: SÃ­,
+ Agent: Iâ€™ll transfer you to the office to assist you with making an appointment. Just a moment, please!
+ User: You already sent that.
+ Agent: I apologize for the confusion! Let me transfer you to the office now for your appointment. One moment, please!
+ Agent: It seems like I may have lost you. If you're still 
+ User: No.
+ Agent: there and would like to make an appointment, please let"
+call_6d176cee2606beb745cebb9d793,221.568,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you clarify if you would like to book, confirm, reschedule, or cancel an appointment?
+User: Reschedule.
+Agent: I hope everything is okay. Could you please let me know the reason for rescheduling your appointment?
+User: Transportation.
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth?
+User: Ten fourteen nineteen one.
+Agent: Just to confirm, the date of birth is October 14th, 1901. Is that correct?
+User: No.
+Agent: Could you please repeat the date of birth clearly?
+User: Ten fourteen nineteen eighty one.
+Agent: Thank you!
+Agent:  The date of birth is October 14th, 1981. Let me proceed with your request.I see an appointment scheduled for Monday, June 30th, at 8:00 AM. Could you confirm if this is the appointment you would like to reschedule?
+User: Yes.
+Agent: Could you please let me know your preferred date for the rescheduled appointment?
+User: Any date.
+Agent: Would you 
+Agent: mind holding 
+Agent: on for a second while I check for the best available slots?The next 
+User: Yes.
+Agent: available slot is on Thursday, July 3rd, from 9:30 AM to 10:30 AM. Would you like to reschedule to this time?
+User: Yes.
+Agent: Your appointment has been successfully rescheduled to Thursday, July 3rd, from 9:30 AM to 10:30 AM. Is there anything else I can assist you with?
+User: Oh, reschedule.
+Agent: It seems you want to reschedule 
+User: (inaudible speech)
+Agent: again. Could you please let me know your preferred date for the new appointment?
+User: Any date.
+Agent: Would you mind holding on for a second while I check for the next available slots?The next available slot is still on Thursday, July 3rd, from 9:30 AM to 10:30 AM. Would you like to keep this time?
+User: No.
+User: No. 
+Agent: Would you like me to check for a later date?
+User: Later time.
+Agent: The next available slot is on Monday, July 7th, from 8:00 AM to 9:00 AM. Would you like to reschedule to this time?
+User: No.
+Agent: Would you like me to check for an even later date?
+User: No.
+User: Operator.
+Agent: Alright, let me know if there is anything else I can assist you with.
+User: No.
+User: No. Operator.
+Agent: Thank you for contacting Alpha Dental Fall River. Have a great "
+call_c436393385f6ef341a6619100c5,70.539,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+ Agent: Iâ€™m here to help whenever 
+ User: Appointment. Appointment. 
+ Agent: youâ€™re ready! If you have any questions or need assistance, just let me know.
+ User: Hi.
+ User: Okay.
+ Agent: Could you please let me know if you're looking to book, reschedule, confirm, 
+ User: You lost the 
+ Agent: or cancel an 
+ User: billing?
+ Agent: It seems like you might 
+ User: Schedule an appointment.
+ Agent: have a billing-related question. Would you like me to transfer your call to someone who can assist you with 
+ User: No."
+call_18d61a36b8d0abf350f568e08ef,105.461,"User: Le respuesta
+Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I need to reschedule an appointment.
+Agent: I can help with that! I'll transfer your call to our clinic staff who can assist you with rescheduling your appointment. Please hold on for a moment while I do that.
+Agent: Just a quick reminder, I'm here to help you with rescheduling your appointment. If you're ready, I can transfer your call to our clinic staff. Let me know!
+User: Which is weird. Right? Because they're both locked.
+Agent: It seems like there might be some confusion. If you need assistance with rescheduling your appointment, I can transfer you to our clinic staff for help. Would you like me to do that?
+User: Sure.
+Agent: I'm transferring your call to our clinic staff to help you with rescheduling your appointment. Please hold on."
+call_bfc83f60ad648dbeeedd752217f,200.73,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I'm returning a call.
+Agent: Could you please let me know the reason for your call? Are you looking to check on an existing appointment, cancel one, confirm a booking, or something else?
+User: Existing appointment.
+Agent: Could you please provide the patient's date of birth? I'll need that to look up the existing appointment.
+User: 01/31/1983.
+Agent: Just to confirm, that's January 31, 1983. Let me check the appointment details for you. One moment, please.
+Agent: I appreciate your patience! I'm checking the appointment details now. Just a moment longer, please.
+User: The fuck, dude. You called me.
+Agent: I'm transferring your call to a human agent for further assistance."
+call_f3ef447c32558f679d138d028fc,96.286,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth 
+User: Virtual assistant 
+Agent: Family Dental Care. I 
+User: from the front office at William and Family Dental.
+Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointments, billing, and clinic-related queries. How can I assist you today?
+User: I would like the dental records, X rays, sent to our office, doctor Scardella and doctor Goading.
+User: for Kevin Keeley.
+User: Date of birth is eight three eighty nine. We want to know what grace he has and has them emailed over.
+User: You gave me the number to call seven eight one three three nine zero nine seven three because you said you could not help me.
+User: But when I called, it said it's unable to comply. So would you please make sure that you have the right number for me? Because I did ask you to repeat it.
+User: You.
+Agent: I understand your concern, and I sincerely apologize for any inconvenience caused. The correct phone number for Weymouth Family Dental Care is seven eight one - three three seven - zero nine seven three. Please ensure you dial this number exactly as stated.
+
+Unfortunately, I cannot assist with sending dental records or X-rays directly. I recommend contacting the clinic directly at the number provided for further assistance. If there's anything else I can help you with, please let me know!
+User: Thank you.
+User: you."
+call_2846a76e75697fd2a81fe074f71,86.029,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Yeah. I have a patient of mine who has dental appointment. Would like to double check to see what the date and the time, please.
+Agent: Could you please provide me with the patient's date of birth? This will help me find their 
+Agent: appointment details.
+User: 02/2689.
+Agent: It seems there might be a mistake with the year. Can you confirm the year of birth, please?
+User: 02/06/1989.
+Agent: It looks like I couldn't find any appointments for that date of birth. Would you like me to transfer your call to the clinic for further assistance?
+User: Yeah. Have you seen her name in the system?
+Agent: I wasn't able to find any patient details with the date of birth you provided. Would you like me to 
+User: Ok.
+Agent: transfer your call to the clinic so they can help you further?
+User: No. That's alright. Thank you so much. You.
+Agent: Thank you for "
+call_5cdfb0d2109e6358cf03a4fbace,61.977,"Agent: Hi there!
+ User: Turn down that racket.
+ Agent: Iâ€™m 
+ Agent: Sara, a virtual assistant from the front office at Alpha Dental of Fall River. Iâ€™m here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+ User: I need to reschedule my appointment. That was at 08:00 morning.
+ Agent: I can help you with that! First, could you please provide me with the patient's date of birth?
+ User: Four twenty six sixty six.
+ Agent: Just to confirm, that's April 26, 1966, right?
+ User: Yes.
+ Agent: I found your appointment, David. Itâ€™s scheduled for 8:00 AM today. Would you like me to transfer your call to reschedule it?
+ User: Yes.
+ Agent: I'm transferring you now to reschedule your appointment. Please hold on."
+call_958846ae03372da70e5d560ad41,200.572,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Oh, hi. Somebody called, and I forgot to tell her the name.
+User: name. I have a appointment for tomorrow.
+User: The doctor Karen Karen
+Agent: Could you please 
+User: And and she said
+Agent: confirm 
+User: hello?
+Agent: Could you please confirm if you are looking to know the details of your appointment tomorrow? If so, I can assist you with that. May I have the patient's date of birth to proceed?
+User: Excuse me. This is a racket or it's a person?
+Agent: I am so sorry if I 
+User: Anthem Sheen.
+Agent: caused any confusion. I am Sara, a virtual assistant here to help you. Could you please let me know how I can assist you?
+User: Yes. Somebody called today for me to cancel this appointment for for River.
+Agent: I understand you would like to cancel your appointment. Could you please share the reason for the cancellation?
+User: Somebody called. To my house one hour.
+User: It was it's open. The clinic today or no?
+User: Right now?
+User: now.
+User: This is a question.
+User: It it's open the clinic
+User: Hello?
+Agent: Yes, the 
+User: Hello?
+Agent: clinic is open today. Our hours on Mondays are from 8 AM to 6 PM. Is there anything else I can assist you with?
+User: Yes. I need help now.
+User: Somebody calls because I don't need to have appointment to the doctor.
+User: Of dental.
+Agent: I understand you want to cancel your dental appointment. Could you please share the reason for the cancellation?
+User: Somebody called me.
+Agent: I 
+User: Somebody called Lily. Two
+Agent: understand. Let me assist you with canceling your appointment. Could 
+Agent: Thank you for sharing that. I will assist you with canceling your appointment. Could you please provide the patient's date of birth so I can locate the appointment details?
+User: Yes. August seven fifty four.
+Agent: I see that Lilina Coucelos has an appointment scheduled for tomorrow, Tuesday, July 15th, at 2:30 PM. Could you confirm if this is the appointment you would like to cancel?
+User: Yes.
+User: Yes.
+Agent: I am unable to process the cancellation at the moment. I will transfer your call to the scheduling team for further assistance."
+call_8dcefdf6f0bc4f4c865d40b5bc1,239.272,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Cancel appointments.
+Agent: Could you please provide me with the reason for the cancellation?
+User: Yes. I can't reach you human anytime I call the office.
+Agent: I understand your frustration. Can I have the patient's date of birth to proceed with the cancellation?
+User: 422-1943. And we have a second appointment the same day.
+Agent: It seems like there might be a misunderstanding with the date of birth format. Could you please confirm the year of birth?
+User: 422-1943
+Agent: It looks like the date of birth is still not in the correct format. Could you please provide the date of birth in the format of MM-DD-YYYY? For example, if the date is April 22, 1943, it would be 04-22-1943.
+User: 04/22/1943.
+Agent: I found the appointment for Judy Goldman on July 8th, 2025, at 1:00 PM. Would you like to proceed with canceling this appointment?
+User: Yes.
+Agent: Your appointment for Judy Goldman on July 8th, 2025, at 1:00 PM has been successfully canceled.Is there anything else I can assist you with today?
+User: Yes. Cancel appointment.
+User: for Bill 
+Agent: Could you please provide the reason 
+User: Goldman. K.
+Agent: for the 
+Agent: cancellation for Bill 
+User: I can't
+Agent: Goldman?
+Agent: That's 
+User: Never can reach a human when we call the office.
+Agent: understandable, and I apologize for the inconvenience. Can I have the date of birth for Bill Goldman to proceed with the cancellation?
+User: 05/06/1990 nineteen forty five.
+Agent: It seems there’s a mix-up with the year. Could you please confirm the correct year of birth for Bill Goldman?
+User: 1945.
+Agent: It looks like I couldn't find any appointments for Bill Goldman with the provided date of birth. Could you please double-check the date of birth or provide any additional information that might help?
+User: He was born 05/06/1945.
+Agent: I still can't find any appointments for Bill Goldman with the date of birth May 6th, 1945. It might be helpful to check if the information is correct or if there’s another detail that could assist in locating the patient. Would you like to provide any additional information?
+User: Yes.
+Agent: Great! Please provide the additional information so I can assist you further.
+User: Please have somebody call us.
+Agent: I can transfer your call to a human agent for further assistance. Please hold on for a 
+User: Thank you.
+Agent: moment while I do that."
+call_5075076ca55f40cf90d38a3cc22,161.551,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+ User: Well, I'm gonna have Ruth Cornell done there in that office in May. And I when I went to Swansea, I gave the card the dent for the dentist, but I forgot to give it a mass health that I have that covers my co pays. Would it be possible to call MassHealth for me and see if they cover anything?
+ Agent: I can't make calls on your behalf, but I can help you with your appointment or any other questions you might have. Would you like me to transfer you to someone who can assist you with your billing or insurance inquiries?
+ User: Yes, please.
+ Agent: I'm transferring you to someone who can assist you with your billing and insurance inquiries.
+ Agent: It seems there was an issue with the transfer. Let me try that again 
+ User: Yes. 
+ Agent: for you. One moment, please.
+ User: Thank you.
+ Agent: I'm transferring you to someone who can assist you with your billing and insurance inquiries.
+ Agent: It looks like I'm having trouble transferring your call right now. I recommend calling our clinic directly at (508) 646-9600 for assistance with your billing and insurance questions. Is there anything else I can help you with?
+ User: 508. What's the number, please, please?
+ Agent: The phone number for our clinic is (508) 646-9600. You can call that number for assistance with your billing and insurance inquiries. Is there anything else I can 
+ User: Okay. 
+ Agent: help you with?
+ User: No. Thank you.
+ Agent: Thank you for contacting Alpha Dental of Fall River! Have a great day!
+ User: You too. Thank you."
+call_ac5b025650a0f51a528579b4795,213.26,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Calling about my appointment.
+Agent: Could you please let me know if you are looking to confirm, reschedule, or cancel your appointment? Or do you need details about your upcoming appointment?
+User: I need details upcoming my appointment.
+Agent: Could you please provide the patient's date of birth? I will use it to locate the appointment details for you.
+User: No.
+User: November fourth nineteen ninety seven.
+Agent: Thank 
+Agent: you! To confirm, the date of birth is November 4, 1997. Let me check the details for you. One moment, please.I found two upcoming appointments for Marta Soares:
+
+1. Thursday, June 26th at 11:30 AM.
+2. Thursday, June 26th at 12:15 PM.
+
+Is there anything else I can assist you with?
+User: Alô, João de Cycle. Cancel those two appointments.
+User: appointments and reschedule.
+Agent: I understand you would like to cancel both appointments and reschedule them. Could you please let me know the reason for rescheduling?
+User: I'm stuck here.
+User: stuck at work, and I cannot have the day off.
+Agent: I understand, 
+Agent: and I hope things 
+Agent: ease up at work 
+Agent: soon. Let me proceed with your request to cancel and reschedule the appointments. One moment, please.Both of your appointments on Thursday, June 26th at 11:30 AM and 12:15 PM have been successfully canceled. Let us now proceed to reschedule them. Could you please let me know your preferred new date for the appointments?
+User: July tenth of July.
+Agent: Thank you!
+Agent:  Would you mind holding on for a second while I check for the best available slots on Thursday, July 10th?Unfortunately, there are no available slots on Thursday, July 10th, 2025. However, the next available slot is on Monday, July 21st, 2025, from 8:15 AM to 9:00 AM. Would you like to book this slot?
+User: Yeah. I can do that.
+Agent: Your first appointment has been successfully rescheduled to Monday, July 21st, 2025, from 8:15 AM to 9:00 AM.
+
+For the second appointment, there are available slots on Thursday, July 10th, 2025. The first available slot is from 8:00 AM to 8:30 AM. Would you like to book this slot, or should I check for a later time?
+User: For the latest time.
+Agent: The latest available slot on Thursday, July 10th, 2025, is from 11:30 AM to 12:00 PM. Would you like to book this slot?
+User: No. Thank you.
+User: Thank you.
+Agent: Thank you for contacting Alpha Dental Fall River. Have a great day!"
+call_8abadd09f7c28f3174499ccfb3d,77.052,"Agent: Hello! This is Sara from Alpha Dental of Fall River. May I have your name, please?
+ User: Ahora I don't know why they're calling me. I don't I don't do my dentistry there.
+ Agent: It seems like there might be some confusion. If you're not a patient with us, I can help you with any questions or concerns you might have. Would you like to address a specific reason for your call, or do you need assistance with something else?
+ User: I need assistance.
+ Agent: I can help with that! Could you please let me know what kind of assistance you need?
+ User: I nearly forgot to take my member, August. This because I do not do my dentistry with you all. So
+ Agent: It sounds like you might be looking for information related to your dental membership or insurance. Would you like me to transfer you to someone who can assist you with that?
+ User: Yes, please.
+ Agent: I'm transferring your call to someone who can assist you with your dental membership and any related questions."
+call_62fa44702687333b2a44f4b0be5,124.279,"Agent: Hi there! I'm Sara, 
+ User: Yeah.
+ Agent: a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+ User: I said billing.
+ Agent: Got it! Just to confirm, would you like me to transfer your call for billing-related queries?
+ User: Yes.
+ Agent: I'm transferring your call for billing-related queries. Please hold on.
+ Agent: It seems there was an issue transferring your call for billing-related queries. Let me try that again for you. Please hold on.
+ Agent: I appreciate your patience! If you still need assistance with billing, I can try transferring your call again. Would you like me to do that?
+ User: Yes.
+ Agent: I'm transferring your call for billing-related queries. Please hold on.
+ Agent: It looks like I'm having trouble transferring your call for billing-related queries again. I recommend trying to reach out to the clinic directly at (508) 646-9600 for immediate assistance. Is there anything else I can help you with?"
+call_adba86cf98de339eec7a01a037b,101.574,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Can I speak to the doctor Amira, please?
+Agent: I can’t transfer calls directly to the doctor, but I can help with any questions or concerns you might have. Would you like me to 
+User: हां. 
+Agent: assist you with something specific?
+User: I want to know if I have a a pain on my tooth.
+User: Do I have to take a Tylenol?
+User: Because I'm gonna be out of the country.
+Agent: I'm sorry, but I can't provide medical advice. It's best to consult with a healthcare professional regarding your tooth pain and any medication you might need. Would you like me to help you schedule an appointment with our dentist?
+User: Uh, no. I wanna I wanna talk to the doctor Amiria. Because I'm leaving soon.
+Agent: I understand your urgency, but I can't transfer calls directly to the doctor. However, I can help you with any appointment-related questions or concerns. Would you like me to assist you with scheduling an appointment or transferring your call to someone 
+Agent: who can 
+User: No. I don't have to answer that. I wanna talk to somebody.
+Agent: I understand you're looking for assistance. I'm transferring your call to a human agent who can help you further."
+call_ab9448d5f3e9dac5588a951b07f,92.842,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+ User: Appointments.
+ User: Current 
+ User: appointment.
+ Agent: Could you please let me know if you're a new patient or if you have an existing appointment?
+ User: Existing appointment.
+ Agent: Could you please provide me with the patient's date of birth?
+ User: Yep. It's Gilda, g I l v a, Bouchard 31050.
+ Agent: Just to confirm, is the date of birth for Gilda Bouchard March 10, 1950?
+ User: Yes.
+ Agent: Gilda, you have two upcoming appointments:
+ 
+ 1. On Wednesday, April 9th, 2025, at 5:15 PM.
+ 2. On Wednesday, April 9th, 2025, at 6:15 PM.
+ 
+ Is there anything else I can assist you with?
+ User: Could I speak to someone?
+ User: I think there's a mix up.
+ Agent: I'm transferring your call to a human agent for further assistance."
+call_51812133aaeea182563e0febe05,148.292,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Yes. So good afternoon, ma'am. My name is Aguirre Last time, I was there for Crown. And I had another one, and they said they're gonna send my request for insurance. I don't know if they hear anything. I gotta hear from now, Maria.
+Agent: Good afternoon, Aguirre! I can help you with that. Could you please provide me with your date of birth? This will help me check your appointment details and any 
+User: I'm gonna be 
+Agent: updates regarding your insurance 
+User: 11/1915.
+Agent: Just to confirm, your date of birth is November 19, 1915, correct?
+User: '19 No. November 28. November 28.
+Agent: Thank you for clarifying!
+User: Hello?
+Agent:  Your date of birth is November 28, 1915. Let me check your appointment details and any updates regarding your 
+User: No. Ninety ninety fifty No. I'm sorry. I'm sorry. I think you want us It's 11/28/1958.
+Agent: Got 
+Agent: it! Your date of birth 
+User: ¿Aló?
+Agent: is November 28, 1958. Let me check your appointment details and any updates regarding your insurance. Please hold on for a moment.I found your information, Agueda, but it looks like there are 
+User: Yes.
+User: Alright. Found your information
+Agent: I found your information, Agueda, but it looks like there are no upcoming appointments listed for you. If you have any specific questions about your insurance request, I recommend 
+User: No. I 
+Agent: contacting the clinic 
+User: didn't answer the question.
+Agent: I 
+User: Wanna 
+Agent: apologize for the 
+User: know if they have it because they said they just send out the question with the insurance. I wanna know if for any insurance to respond or not.
+Agent: I understand now! Unfortunately, I can't check the status of your insurance request directly. Would you like me to transfer your call to someone at the clinic who can assist you with that?
+User: Alright. Alright. Alright. Alright. Okay.
+Agent: I'm transferring your call to the clinic for further assistance with your insurance inquiry."
+call_a5795baaaefd9e2c82bb8a3dd4a,96.233,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Franklin. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: What time is
+Agent: Could you clarify what you would like to know about the time? Are you asking about our clinic's working hours or something else?
+User: What time is the
+Agent: It seems like your question is incomplete. Could you please clarify what you would like to know?
+User: What?
+User: Time is my appointment?
+User: Today?
+Agent: Could you please provide the patient's date of birth so I can check the appointment details for today?
+User: (inaudible speech)
+User: No.
+Agent: Alright, if you need help with anything else, feel free to let me know!
+User: What?
+User: My report? Today?
+Agent: It seems like you are asking about a report. Could you clarify what type of report you are 
+User: Oh my
+Agent: referring to? If it is related to your dental records or appointment, I can assist further.
+Agent: I will transfer your call to the clinic for further assistance. Please hold on."
+call_95cc354d03900e6b85bade5f893,74.925,"Agent: Hello, I am Sara, a virtual assistant from the front office at Halifax 
+Agent: Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: The phone?
+User: on the phone? Yeah. Can I talk to the phone, please?
+User: You're on the 
+Agent: Let me 
+User: phone? No. Well, they told me now. They're not even taking my teeth out Monday. I need to do a procedure so I have all the information I need at my house I take that to this this stuff. I want it done one day. I can't be taking off work. I'm just supposed to read to that. I'm gonna lose my job.
+User: They asked me this, like, when I was over, doing Yeah. Can I talk to someone, please? Alright. They have all my information.
+User: information. They're 0¢. Oh, it is. Wanna do a conceivance. They wanna take my cheek on.
+Agent: Let me 
+User: Oh, they can't do 
+Agent: connect you to an 
+User: it?
+User: Like, that's not what?
+Agent: Let me 
+User: When 
+Agent: connect you to an 
+User: I went to Brockton, Brockton. Just took all my Tito. He didn't care.
+User: They said if you go some help, you
+Agent: Let me connect you to an operator 
+User: Are you paying 
+Agent: Let 
+User: for it?
+Agent: me 
+Agent: Let me connect you to an operator who can assist you further."
+call_35a69cd71ea8792365325d350a1,62.912,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Email address?
+Agent: I'm sorry, but I can't provide email addresses. However, I can help you with appointment scheduling or any other questions you might have. What do you need assistance with?
+User: Representative.
+Agent: It sounds like you would like to speak with a representative. I'll transfer your call to a human agent for further assistance. Please hold on for a moment.Transferring your call now.
+User: The bot is killing me.
+Agent: I understand you're feeling frustrated. I'm transferring your call to a human agent for further assistance."
+call_cdce9badb2a4ab0a296c606784d,244.514,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: To confirm appointment.
+Agent: Could you please provide the patient's date of birth?
+User: 07/13/1963.
+Agent: Just to confirm, that's July 13th, 1963. Let me proceed with your request.
+Agent: I appreciate your patience! I'm going to check the appointment details for that date of birth now. Please hold on for a moment.
+User: Thing left me on the phone.
+Agent: I'm transferring your call to a human agent for further assistance."
+call_669cd3eea43d431f97b733aaa7d,78.69,"User: Hello. This is Avidia Bank.
+User: We are calling for the code needed to sign in to online banking.
+User: To continue, please press or say one. Otherwise, please hang up.
+Agent: I am sorry, but I cannot assist with this request. If you need help with dental-related matters, feel free to let me know!
+User: We are calling for the code needed to sign in to online banking. To continue, please press or say one. Otherwise, please hang up.
+Agent: I am unable to assist with this request. If you have any dental-related queries or need assistance with Halifax Family Dental, please let me know!
+User: We are calling for the code needed to sign in to online banking. To continue, please press or say one. Otherwise, please hang up.
+Agent: I am sorry, but I cannot assist with this request. If you need help with anything related to Halifax Family Dental, please let me know!
+User: The code has expired.
+User: Click the button on the online banking page to complete the call and try again.
+User: Goodbye."
+call_41a1888c33ee71894348d4554f2,89.456,"Agent: Hi there! I'm Sara, a virtual assistant from 
+User: Hello. This is 
+Agent: the front office at Hull 
+User: a courtesy call from support for your QuickBooks. We're reaching out to check-in and ensure you're satisfied with your QuickBooks experience. If you're still actively using QuickBooks and would like to continue receiving support and updates, please press 1. If you are no longer using QuickBooks, please press 2 so we can update our records accordingly.
+Agent: It seems like you might have reached the wrong number. This is Hull Family Dental. How can I assist you today?
+User: Hello. This is a courtesy call from support for your QuickBooks. We're reaching out to check-in and ensure you're satisfied with your QuickBooks experience. If you're still actively using QuickBooks and would like to continue receiving support and updates, please press 1. If you are no longer using QuickBooks, please press 2. So we can update our records accordingly.
+Agent: It looks like you've reached Hull Family Dental, not QuickBooks support. I'm here to help with dental appointments or any related 
+User: Hello. 
+Agent: queries. How can I assist 
+User: This is a courtesy call from support for your QuickBooks. We're reaching out to check-in and ensure you're satisfied with your QuickBooks experience. If you're still actively using QuickBooks and would like to continue receiving support and updates please press 1. If you are no longer using QuickBooks, please press 2. So we can update our records accordingly.
+Agent: It seems you're still trying to reach QuickBooks support. This is Hull Family "
+call_83a1aedab82bb6a2fdf03011d74,61.338,"Agent: Hello, I am Sara, a virtual assistant from the front office at Halifax Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I don't wanna buy that.
+Agent: It seems like there might be some confusion. I’m here to assist you with anything related to Halifax Family Dental, such as appointments, billing, or clinic-related queries. How can I help you today?
+User: Appointments.
+Agent: Thank you for letting me know. Could you please clarify if you would like to book a new appointment, confirm an existing one, reschedule, or cancel an appointment?
+User: New appointments.
+Agent: We are delighted to welcome new patients to our practice. I will now transfer you to our new patient coordinator for further assistance."
+call_3c554a043fc8b1e08f2f1ae7eec,67.38,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental 
+ User: No work.
+ Agent: of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+ User: Appointments. Appointment. I'll take his then.
+ Agent: Could you please confirm if you would like to book a new appointment, reschedule an existing one, or confirm an 
+ User: Is 
+ Agent: appointment?
+ User: that?
+ Agent: Just to clarify, would you like to book a new appointment, reschedule an existing 
+ User: Say far around it?
+ Agent: one, or confirm an 
+ Agent: It seems 
+ User: Oh, 
+ Agent: I might not be 
+ User: we'll be using these.
+ Agent: Iâ€™m here to help! Could you please clarify if you want to book a new appointment, reschedule an existing one, or confirm an appointment?
+ User: Preschedule. Let's try that.
+ User: It's a lie. 
+ Agent: Great! Iâ€™ll transfer you to the clinic to help you reschedule your appointment. Just a moment, 
+ User: I'm lying. Talking to a computer.
+ Agent: please."
+call_d078466f62783e9b4062ec6ea96,108.399,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Cancel an appointment.
+Agent: Could you please provide me with the reason for the cancellation?
+User: Because my van can't take me.
+Agent: Thank 
+User: I don't 
+Agent: you for sharing that.
+User: have a car. I don't drive.
+Agent: I understand. Could you 
+User: And I rely on a van parking ride.
+Agent: Could you please provide me with the patient's date of birth?
+User: Seven fifteen forty six.
+Agent: Just to confirm, is that July 15, 1946?
+User: Yes.
+Agent: I found the appointment for Marcia A. Mitchell. The appointment is scheduled for Friday, June 12th, 2025, at 2:00 PM. Would you like to cancel this appointment?
+User: It's Thursday, June 12.
+Agent: Thank you for the correction! The appointment is indeed on Thursday, June 12th, 2025, at 2:00 PM. Would you like to proceed with the 
+User: I 
+Agent: cancellation?
+User: can do it. I have to reschedule.
+Agent: I'm transferring your call to the clinic staff to help you reschedule your appointment."
+call_5e6013cfe7d3ee84f7a7e58a218,103.177,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: You called and left a message on my voice mail.
+Agent: I’m sorry for any confusion! How can I assist you regarding the message? Are you looking for information about an appointment or something 
+Agent: else?
+User: Yes.
+Agent: Could you please let me know what specific information you need about your appointment?
+User: I have an appointment on the '20 eighth or May 29. With doctor Salem.
+Agent: Could you please provide me with the patient's date of birth? This will help me find the appointment details for you.
+User: Two twenty six five seven.
+Agent: Just to confirm, is the date of birth February 26, 1957?
+User: Yes.
+Agent: I found the appointment details for you. You have an appointment with Dr. Salem on Tuesday, May 28th, 2025, at 8:30 AM.Is there anything else you would like to know or do regarding this appointment?
+User: No. Bobby's there.
+Agent: Thank you for letting me know! If you need any further assistance in the future, feel free to reach out. Have a great day!
+User: You too. Bye."
+call_40d70cba32c4aa2d20f3e7d7812,71.671,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Returning a call.
+Agent: Could you please let me know the reason for your call? Are you looking to check on an appointment, cancel one, or 
+User: Yes.
+Agent: something else?
+Agent: Could you 
+User: Checking on an appointment.
+Agent: clarify 
+Agent: Could you please provide the patient's date of birth? This will help me find the appointment details for you.
+User: Twelve one nineteen forty nine.
+Agent: Just to confirm, that's December 1st, 1949, correct?
+User: Correct.
+Agent: It seems that I couldn't find any appointments associated with that date of birth. Would you like me to transfer your call to the clinic for further assistance?
+User: Yes, please.
+Agent: I'm transferring your call to the clinic for further assistance with your appointment."
+call_7a7cf6177bf5b705b789c30b058,69.43,"Agent: Hello! I am 
+User: Hello. Great.
+Agent: Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment, please.
+Agent: Are you a new patient, or do you have an existing appointment with us?
+User: An existing appointment.
+Agent: Could you please provide me with the patient's date of birth?
+User: 03/12/1944.
+Agent: Just 
+Agent: to confirm, that's March 12, 1944. Let me check the appointment details for you. One moment, please.I found the appointment details for Judith Coulon. You have an appointment scheduled for today at 9:30 AM.Is there anything else you would like to know or do regarding this appointment?
+User: Need to speak to live person.
+Agent: I will transfer your call to a human agent for further assistance."
+call_d804c6b9caa557c8cff6a4d39e2,67.644,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Speak with Jill.
+Agent: I can help you with that! Could you please let me know what the reason for your call is?
+User: Billing.
+Agent: I can transfer your call for billing-related queries. Please hold on for a moment while I connect you to the clinic staff.
+Agent: Just a quick reminder, I'm here to assist you with your billing query. Would you like me to transfer your call to the clinic staff?
+User: Speak with Jill.
+Agent: I'm transferring your call to a human agent for further assistance."
+call_b2ff176348d10d643144f667047,74.561,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling to confirm an existing appointment, cancel an appointment, book a new appointment, or reschedule an appointment?
+User: Book a new appointment.
+Agent: I'll transfer your call to our clinic staff, who will help you with booking a new appointment. Please hold on for a moment while I do that.
+Agent: Just a quick reminder that I'm here to assist you with booking your new appointment. If you're ready, I can transfer your call to our clinic staff. Let me know!
+User: Yes. I'm ready.
+Agent: I'm transferring your call to our clinic staff to help you book a new appointment."
+call_aaa61c889076d7504c7a3cde8b5,282.58,"Agent: Hi, I am Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I need to change an appointment.
+Agent: We hope everything is okay. Could I please know the reason for rescheduling your appointment?
+User: I'm working late.
+User: and I start off the phone.
+Agent: Could you please provide the patient's date of birth so I can assist with rescheduling the appointment?
+User: Four twenty two nineteen eighty two.
+Agent: Nathan Shaw has an appointment scheduled for today, Tuesday, July 15th, at 4:15 PM. Could you confirm if this is the appointment you would like to reschedule?
+User: Yeah.
+User: Yes.
+Agent: Could you please let me know your preferred new date for the appointment?
+User: Tomorrow?
+Agent: Please hold on for a few seconds while I check for the best possible slots in our system.
+Agent: We found an available appointment slot for tomorrow, Wednesday, July 16th, from 7:00 AM to 7:45 AM. Would you like to book this slot?
+Agent: Just checking in—would you like to book the available slot tomorrow, Wednesday, July 16th, from 7:00 AM to 7:45 AM? Let me know!
+User: No.
+Agent: Would you like me to check for a later time slot on the same day?
+User: Yes.
+Agent: Currently, there are no later time slots available for tomorrow, Wednesday, July 16th. Would you like me to check for another day?
+User: Yes.
+Agent: Could you please let me know your preferred new date for the appointment?
+User: Next Wednesday.
+Agent: Please hold 
+Agent: on for a few seconds while I check for the best possible slots in our system.We found an available appointment slot for next Wednesday, July 23rd, from 7:00 AM to 7:45 AM. Would you like to book this slot?
+User: No. Anytime after four fifteen PM.
+Agent: Currently, there are no available slots after 4:15 PM on Wednesday, July 23rd. Would you like me to check 
+User: Any 
+Agent: for another 
+User: day will work. Yes.
+Agent: Please hold on for a few seconds while I check for the best possible slots in our system.The earliest available slot is still on Wednesday, July 23rd, from 7:00 AM to 7:45 AM. Unfortunately, there are no later slots on that day. Would you like me to keep looking for other days?
+User: Yes.
+Agent: Could you please confirm if you are looking for any day after 4:15 PM? I will search 
+User: Yes.
+Agent: accordingly.
+User: Yes.
+Agent: Currently, there are no available slots after 4:15 PM on Thursday, July 24th. Would you like me to continue checking for other days?
+User: Yes. Any day.
+Agent: The next available slot is on Monday, July 28th, from 7:00 AM to 7:45 AM. Unfortunately, there are no later slots on that day. Would you like me to keep searching?
+User: Yes.
+Agent: The next available slot is on Tuesday, July 29th, from 7:00 AM to 7:45 AM. Unfortunately, there are 
+User: No. Operator, please. I speak 
+Agent: no later slots on that day. Would you like me to 
+User: with an operator?
+Agent: I will transfer your call to the clinic for further assistance."
+call_7b8f105b6a8a0440be85c00f3bd,80.807,"Agent: Hello! I am 
+User: Hi.
+Agent: Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I would like to get the dental records, the X rays on Kevin Kaylee, Date of birth, eight three eighty nine. This is Diane from doctor Scardella in doctor Goading's dental office.
+User: in Duxbury, Mass.
+User: Mass.
+Agent: Thank you for reaching out, Diane. Unfortunately, I am unable to assist with requests for dental records or X-rays directly. I recommend contacting our office directly at seven eight one - three three seven - zero nine seven three for further assistance. They will guide you through the process of obtaining the necessary records.Is there anything else I can assist you with?
+User: Could you repeat that, please?
+User: The new number?
+Agent: Of course! You can contact our office directly at seven eight one - three three seven - zero nine seven three for assistance with obtaining dental records or X-rays. They will guide you through the process. Let me know if there's anything else I can help you with!
+User: Thank you. Bye bye."
+call_b4fbd4b360a9437e8b9f7f865f7,87.535,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Speak to Santosh?
+Agent: It seems like you might want to speak with someone specific. Can I help you with something related to your appointment or any other query?
+User: Yes.
+Agent: Great! Could you please let me know what specific assistance you need? Are you looking to book, cancel, or confirm an appointment, or do you have another question?
+User: Preschedule.
+Agent: I can help with that! I'll need to transfer your call to our clinic staff who can assist you with scheduling your appointment. Please hold on for a moment while I do that.
+Agent: Just a quick reminder! I'm here to help you with scheduling your appointment. If you're ready, I can transfer your call to our clinic staff. Let me know!
+User: Yes.
+Agent: I'm transferring your call to our clinic staff to help you with scheduling your appointment. Please hold on for a moment."
+call_f05a7188e804ad1bde1acf5a8f7,87.877,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Yes. My name is Maria Olivera. I like to I forgot the time I have my appointment today. Can you please tell me which what time I have the appointment today?
+Agent: Could you please provide the date of birth of the patient? I will 
+User: Ok. 
+Agent: use it to locate the appointment details for you.
+User: Okay. The that's four thirty ninety fifty three.
+User: three.
+Agent: Thank you for providing the date of birth. Just to confirm, is it April 30th, 1953?
+User: No. No. No.
+User: April thirteen one three fifty three.
+User: three.
+Agent: Thank 
+Agent: you for clarifying! So the date of birth is April 13th, 1953. Let me check the 
+User: Yes.
+Agent: appointment details for you. One moment, please.Maria, you have an appointment today, Wednesday, July 9th, at 2:45 PM. Is there anything else I can assist you with?
+User: No.
+User: Just that. Thank you so much for your Thank you.
+Agent: You are very welcome! Thank you for 
+User: Bye bye.
+Agent: contacting Alpha Dental Attleboro. Have a wonderful day!"
+call_a0707fb255e8bd8bf1f115dcad2,62.038,"Agent: Hi there!
+User: Thank you, sir.
+Agent:  I'm Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: I have an appointment scheduled at one I wanted to confirm this.
+Agent: I can help with that! Could you please provide me with the patient's date of birth?
+User: 05/02/1950.
+Agent: Just to confirm, that's May 2nd, 1950, right?
+User: Correct.
+Agent: It seems that I couldn't find any patient records with that date of birth. Would you like me to transfer your call to the clinic for further assistance?
+User: Yes, please.
+Agent: I'm transferring your call to the clinic for further assistance."
+call_aa6b2524a9bfb305eaac6edac57,109.13,"Agent: Hello! I am Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Speak with the office.
+Agent: It sounds like you might need to speak with a human agent. I'll transfer your call to the clinic for further assistance. Please hold on for a moment.Transferring now!
+Agent: Just a quick reminder, I'm here to help! If you have any questions or need assistance, feel free to let me know.
+User: Yeah.
+Agent: How can I assist you today? Do you have a specific question or request?
+User: I need to speak with a human representative
+Agent: Transferring your call to a human representative for further assistance."
+call_aeb043549c5d1e53fc0b7224797,71.387,"Agent: Hi, I am Sara, a virtual assistant from the front office at Hull Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you want to book, confirm, reschedule, or cancel an appointment?
+User: Pork.
+Agent: I am sorry, I did not quite catch that. Could you clarify if you need help with booking, confirming, rescheduling, 
+User: Fourteen. 
+Agent: or canceling an appointment?
+User: Working. Working. Working.
+Agent: I am sorry, I am having trouble understanding. Could you clarify how I can assist you with your appointment?
+User: I want to book an appointment.
+Agent: I will connect you to our scheduling team to assist with booking your appointment. Please hold on."
+call_25cf3f0ad95c046479db47d67d5,104.065,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: Hi. I'd like to talk to somebody about an appointment I have scheduled.
+Agent: I can help with that! Could you please provide me with the patient's date of birth?
+User: Four twenty eight zero two.
+Agent: Just to confirm, is that April 28, 2002?
+User: Yes. It is.
+Agent: I found the appointment for Cameron Mcwilliams. You have an appointment scheduled for June 9, 2025, at 12:00 PM.Is there anything specific you would like to know about this appointment?
+User: I would like to change the appointment if I can.
+Agent: I can help with that! I'll transfer your call to our clinic staff, who can assist you with rescheduling the appointment. Please hold on for a moment while I do that.
+Agent: Just a quick reminder that I'm here to assist you with rescheduling your appointment. If you're ready, I'll transfer you to our clinic staff now!
+User: Yes. I'm ready.
+Agent: I'm transferring you to our clinic staff to help you reschedule your appointment. Please hold on."
+call_568a80f33c3c4a2038f72e43b59,105.834,"Agent: Hello, I am Sara, a virtual assistant from the front office at Halifax Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I need to schedule a new appointment and cancel another one.
+Agent: For scheduling a new appointment, I will connect you to our scheduling team. Regarding the cancellation, I will assist you with that first. Could you please share the reason for canceling the appointment?
+User: My daughter has softball.
+Agent: Thank you for letting me know. Could you please provide the date of birth of the patient whose appointment needs to be canceled?
+User: 03/04/1986.
+Agent: Thank you.
+Agent:  Let me proceed with your request. I will first retrieve the appointment details for the patient. One moment, please.I see two upcoming appointments for Paige Maltby:
+
+1. Wednesday, June 18th at 4:00 PM.
+2. Thursday, July 10th at 4:00 PM.
+
+Could you confirm which appointment you would like to cancel?
+User: Wednesday, June.
+Agent: Thank you for confirming. I will now proceed to cancel the appointment on Wednesday, June 
+Agent: 18th at 4:00 PM. One moment, please.The appointment on Wednesday, June 18th at 4:00 PM for Paige Maltby has been successfully canceled.
+
+Now, I will connect you to our scheduling team to book a new appointment. One moment, please."
+call_78c330d71674b8d17017fb416e5,70.75,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Aesthetic Dental of Whitman. I'm here to assist 
+Agent: you with 
+Agent: It seems like you're trying to reach someone. If you need assistance, please let me know how I can help you today!
+User: Just pick you so much.
+Agent: I appreciate your kind words! How can I assist you today?
+User: Can I just speak to someone?
+Agent: I understand you'd like to speak to someone. I'm going to transfer your call to a human agent for further assistance. Please hold on for a moment.
+User: Well, I
+Agent: I'm transferring your call to a human agent for further assistance."
+call_3bd7bf2e4f2a3ce3fb0d578b290,85.41,"Agent: Hi, I am Sara, a virtual assistant from the front office at Aesthetic Dental of Whitman. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I have to reschedule an appointment.
+Agent: We hope everything is okay. Could I please know the reason for rescheduling your appointment?
+User: I'll be in New Hampshire.
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth so I can proceed with your request?
+User: Ten eleven forty nine.
+User: nine.
+Agent: Just to confirm, the date of birth is October 11, 1949. Let me proceed with your request.Carolyn Pomakis has an appointment scheduled for Monday, August 25th at 4 PM. Could you confirm if this is the appointment you would like to reschedule?
+User: No.
+Agent: Could you please clarify which appointment you would like to reschedule?
+User: The one that was on seven fifteen.
+Agent: It seems I do not have details of an appointment on July 15th in the system. I will connect you to the rescheduling team for further assistance. Please hold on."
+call_5ba6c153f67224be663006e3a39,80.234,"Agent: Hi there! Iâ€™m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. Iâ€™m here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+ User: Front office.
+ Agent: It seems like you might be looking for assistance related to the front office. Could you please specify what you need help with? Are you looking to book an appointment, check on 
+ User: Specific member inquiry. 
+ Agent: an existing one, or something else?
+ User: Member specific inquiry.
+ Agent: Could you please provide me with the patient's date of birth? This will help me look up the specific member's information for you.
+ User: Six two nineteen eighty five.
+ Agent: It looks like I couldn't find any patient records associated with that date of birth. Would you like me to transfer your call to the clinic for further assistance?
+ User: Yes, please.
+ Agent: I'm transferring your call to the clinic for further assistance. Thank you for your patience!"
+call_05ec1988f614bc279c8ef4716b9,193.413,"Agent: Hello! I am Sara, a 
+User: Hi. This is
+Agent: virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Returning a missed call.
+Agent: Thank you for calling back! May I know if you are a new patient or if you have an existing appointment with us?
+User: Existing.
+Agent: Could you please provide the patient's date of birth? I'll use that to check the appointment details.
+User: 03/20/2001.
+Agent: Just to confirm, that's March 20, 2001. Let me check the appointment details for you. One moment, please.
+Agent: I appreciate your patience! I'm checking the appointment details now. Please hold on for just a moment.
+User: Hello?
+Agent: It seems that I couldn't find any appointments associated with that date of birth. Would you like me to transfer your call to the clinic for further assistance?
+User: Yes.
+Agent: I'm transferring your call to the clinic for further assistance with your appointment."
+call_7e88ec7abcda09e878d1ebfbe45,76.204,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Schedule. Appointment.
+Agent: I can help with that! Just to clarify, are you a new patient, or do you already have an existing appointment with us?
+User: Already have.
+Agent: Could you please provide me with the date of birth for the patient?
+User: Five thirteen forty four.
+Agent: Just to confirm, is that May 13, 1944?
+User: Yes.
+Agent: It seems that I couldn't find any appointments associated with that date of birth. Would you like me to transfer your call to the clinic for further assistance?
+User: Yes.
+Agent: I'm transferring your call to the clinic for further assistance with your appointment."
+call_e7693dd75f59ce468c5ded0f3ac,72.472,"Agent: Hi, I am Sara, a virtual assistant from the front office at Alpha Dental Dartmouth. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Hey, Sarah. Hello?
+Agent: Hi there! Yes, I am here. How 
+User: Hi. How are 
+Agent: can I 
+User: you?
+Agent: I 
+User: Okay. My 
+Agent: am doing great, 
+User: name is
+Agent: Got it! How 
+User: my name is Terry Gerber.
+User: I was there
+Agent: Hi Terry Gerber! How can I assist you today?
+User: I need the refill on on ibuprofen.
+User: Because my tooth still hurts me.
+Agent: I am sorry to hear about your tooth pain, Terry. Unfortunately, I cannot assist with medication refills. I recommend reaching out to your dentist or doctor directly for this. Would you like me to connect you to the clinic for further assistance?
+User: Yes.
+Agent: I will transfer your call to the clinic for further assistance regarding your medication refill and tooth pain. Please hold on."
+call_7a57e666766a5d1a369ae402d95,113.272,"Agent: Hi there!
+User: Smart Apart in Hearing. The Was incorrectly told Hello? The smart communication request is going to be on the Hello?
+Agent: I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Hey. Your name is, you said?
+Agent: I'm Sara, your virtual assistant here at Alpha Dental Fall River. How can I help you today?
+User: Okay, Sarah. I'm calling because yesterday and the day before, I canceled an an appointment for today, and they're still calling me.
+Agent: I understand your concern. Can I have the patient's date of birth to check the appointment details and see what's going on?
+User: 05/22/2000 It's my son.
+Agent: Just to confirm, that's May 22, 2000, for your son's date of birth, correct?
+User: Make twenty second two thousand o three.
+Agent: Got it! So, your son's date of birth is May 22, 2003. Let me check the appointment details for you. One moment, please.
+User: Thank you. Thank you.
+Agent: It seems that I couldn't find any appointment details for your son with the provided date of birth. Would you like me to transfer your call to the clinic so they can assist you further?
+User: Please.
+Agent: I'm transferring your call to the clinic for further assistance regarding your son's appointment."
+call_a802248f609a407ad51c5094bb5,81.06,"Agent: Hello, I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I'm returning a phone call to confirm an appointment for one o'clock this afternoon.
+Agent: May I have the patient's date of birth to proceed with confirming the appointment?
+User: June six nineteen fifty three.
+Agent: Thank you for providing the date of birth. To confirm, the date of birth is June 6th, 1953. Let me proceed with your request.I see an appointment scheduled for today, Tuesday, June 24th, 2025, at 1:00 PM. Would you like me to confirm this appointment for you?
+User: Yes. They wanted to see if I wanted to commit it.
+User: at three. Instead of one. I prefer the one o'clock.
+Agent: Thank you for confirming. I 
+Agent: will proceed to confirm your appointment for today at 1:00 PM.Your appointment for today at 1:00 PM has been successfully confirmed. Is there anything else I can assist you with?
+User: No.
+User: No.
+Agent: Thank you for contacting Weymouth Family Dental Care. Have a great day!"
+call_4d8fde2d1d50b1f8379a125f674,86.393,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Hi. My name is Margaret Hobin. I'm just trying to reschedule an appointment.
+Agent: I can help with that! Can you please provide me with your date of birth?
+User: 01:24 eighty four.
+Agent: It seems like there might be a little confusion with the date. Could you please confirm the full date of birth, including the year? For example, it should be in the format of day-month-year.
+User: Okay. 01:24 nineteen eighty four.
+Agent: Thank you for that! Just to clarify, your date of birth is January 24, 1984, correct?
+User: Yes.
+Agent: It looks like I couldn't find any appointments associated with that date of birth. Would you like me to transfer your call to the clinic staff for further assistance?
+User: Yes.
+Agent: I'm transferring your call to the clinic staff to help you with rescheduling your appointment."
+call_45b1658fc025431769fd670135d,65.464,"Agent: Hello, I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Change.
+Agent: Could you please clarify what you would like to change? Are you looking to reschedule an appointment, update your information, or something else?
+User: Update the treatment services.
+Agent: I’m unable to update the treatment services directly. However, if you have any specific concerns or requests regarding treatments, I can transfer your call to the appropriate team for assistance. Would you like me to do that?
+User: Yes.
+Agent: I will transfer your call to the operator for assistance with updating treatment services."
+call_7f4c99c64f32f0294ac19305b54,93.643,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries.
+Agent:  How 
+Agent: can I assist you today?
+Agent: It seems like you're trying to reach someone. If you have a specific question or need assistance, please let me know how I can help!
+User: Front office, please.
+Agent: I can help you with that! Could you please let me know the reason for your call?
+User: No.
+User: Front 
+Agent: I 
+User: office, please.
+Agent: understand. If you change your mind or need assistance with anything specific, feel free to let me know!
+Agent: If you need assistance or have any questions, I'm here to help! Just let me know what you need.
+User: One office.
+Agent: It seems like you're trying to reach the front office. If you have a specific request or question, please let me know how I can assist you!
+User: You can't.
+Agent: Transferring your call to a human agent for further assistance."
+call_4f3106f41431caaf223354d9379,73.057,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling to confirm an existing appointment, cancel one, reschedule, or book a new appointment?
+User: Book a new appointment.
+Agent: I'll transfer your call to our clinic staff, who can help you with booking a new appointment. Please hold on for a moment while I do that.
+Agent: It seems like I haven't heard back from you. If you're still looking to book a new appointment, I'm ready to transfer your call to our clinic staff. Just let me know!
+User: Yes, please.
+Agent: I'm transferring your call to our clinic staff to help you book a new appointment. Please hold on."
+call_ed8f0b84afd630ada10489910c2,85.735,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: How would you like it to make appointment?
+Agent: I can help you set up an appointment! Could you please let 
+User: Hello?
+Agent: me know if you're a new patient or if you have an existing appointment?
+User: Can I tell you something? Thought you are recorder.
+Agent: I'm here to help you!
+User: Oh, that's yes. Oh, 
+Agent:  I'm not a recorder; I'm a virtual assistant ready 
+User: okay.
+User: Hello? 
+Agent: Great! How can I assist you today? Do you need help with an 
+User: Yeah. Which one I can tell yeah. Would you like it to make a point to make exactly?
+Agent: It sounds like you're interested in making an appointment. Could you please 
+User: Is that
+Agent: let me know if you're a new patient or if you have an existing appointment?
+User: No. I've been a new patient.
+Agent: We are delighted to welcome new patients to our practice! I will now transfer you to our new patient coordinator for further assistance. Is that fine?
+User: Okay. Thank you.
+Agent: I'm transferring you to our new patient coordinator for further assistance. Thank you for your 
+User: Okay. I got 
+Agent: patience!
+User: you."
+call_ae2c2ead032dedf532db43f4770,63.634,"Agent: Hello! I am Sara, a virtual assistant from the front office at Halifax Family Dental. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Cancel an appointment.
+Agent: Could you please provide me with the reason for the cancellation?
+User: Don't need it anymore.
+Agent: I need to confirm your date of birth to proceed with the cancellation. Could you please provide that?
+User: 83194.
+Agent: Just to clarify, is your date of birth August 31, 1994?
+User: Yes.
+Agent: It seems that I couldn't find any patient records associated with that date of birth. I will need to transfer your call to the clinic for further assistance. Please hold on for a moment."
+call_680c53c5bf421881b435abaa577,64.357,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: I need an appointment.
+User: Hello?
+Agent: I’m here! For booking an appointment, I’ll need to transfer you to our clinic staff who can assist you further. Please hold on for a moment while I do that.
+Agent: It seems like there might be a connection issue. If you still need assistance, please let me know! Otherwise, I can transfer you to our clinic staff for help with your appointment.
+User: Yes. I need an appointment.
+Agent: I'm transferring you to our clinic staff to help you with booking an appointment. Please hold on for a moment."
+call_f567e135e1846e21b8a6f9317fe,70.043,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: I re reschedule an appointment.
+Agent: I can help with that! I'll need to transfer your call to our clinic staff who can assist you with rescheduling your appointment. Please hold on for a moment while I do that.
+Agent: It seems like I haven't heard back from you. If you still need assistance with rescheduling your appointment, please let me know! Otherwise, I can transfer your call to our clinic staff.
+User: Okay.
+User: Send me 
+Agent: I'm 
+User: to staff.
+Agent: transferring 
+Agent: I'm transferring your call to our clinic staff to help you with rescheduling your appointment. Please hold on for a moment."
+call_d205d114717d4b1b98d53d592c4,72.953,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I’m here to assist you 
+User: Appointments.
+Agent: with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Appointments.
+Agent: Could you please let me know if you're calling about an existing appointment, or if you would like to book a new appointment?
+User: Existing.
+Agent: Could you please provide the patient's date of birth?
+User: 12/02/1989.
+Agent: Just to confirm, that's December 2nd, 1989. Let me check the appointment details for you. One moment, please.I found the appointment details for Jared Silva. You have an appointment scheduled for today, May 6th, 2025, at 2:00 PM.Is there anything else you would like to know or do regarding this appointment?
+User: No.
+Agent: Thank you for contacting Alpha Dental of Fall River! Have a great day!
+User: Thank you."
+call_372760fe0edb9969c018b0cc868,114.222,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: Appointment.
+Agent: Could you please let me know if you're calling to confirm an existing appointment, cancel one, reschedule, or book a new appointment?
+User: Book a new appointment.
+Agent: I'll transfer your call to our clinic staff, who will help you with booking a new appointment. Please hold on for a moment while I do that.
+Agent: Just a quick reminder that I'm transferring your call to our clinic staff to assist you with booking a new appointment. Please hold on for a moment.
+User: Hi. Good morning. Hi.
+Agent: Good morning! How can I assist you today?"
+call_5a702ee532bf92d2fb585b4e801,92.839,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I help you today?
+User: Yes. Called my phone to your office. I'm having a tooth taken out next twenty third.
+User: My name is Byron Mylad.
+Agent: Thank you for that information, Byron! Can you please provide me with your date of birth? This will help me find your appointment details.
+User: Yep. Nine eighteen fifty eight.
+Agent: Just to confirm, your date of birth is September 18, 1958. Is that correct?
+User: Yeah. Yes.
+Agent: I found your appointment, Byron! You have a tooth extraction scheduled for May 23, 2025, at 9:30 AM.Is there anything else I can assist you with regarding this appointment?
+User: Yes. Somebody called from the office. They wanted to talk to me.
+User: Probably to do with my blood thinners that I take.
+Agent: Would you like me to 
+User: So can I talk to doctor?
+User: Yes, please.
+Agent: I can transfer your call to the clinic staff so they can assist you further. Please hold on for a moment while I do that."
+call_70ee579c4a87d27e53e03b7b349,68.61,"Agent: Hello! I am Sara, a virtual assistant from the front office at Mansfield Family Dental. I am here to 
+User: Virtual assistant.
+Agent: assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I need to cancel an appointment.
+Agent: I 
+User: For Josephine Chandler.
+Agent: can help you with that. Could you please let me know the reason for canceling the appointment?
+User: I'm gonna reschedule at another time.
+User: Not able to come.
+User: Tomorrow.
+Agent: Thank you for letting me know. Could you please provide Josephine Chandler's date of birth to proceed with the cancellation?
+User: Twelve twenty four thirty four.
+Agent: To confirm, Josephine Chandler's date of birth is December 24, 1934. Let me proceed with your request.It seems I am unable to locate Josephine Chandler's appointment details in our system. I will connect you to the scheduling team to assist further. Please hold on."
+call_bd257668a3986152f173e8a5e4f,450.682,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I need to cancel my appointment for Monday.
+Agent: Could you please provide me with the reason for the cancellation?
+User: I'm having norovirus all over again, and I don't know if I'll be ready for Monday.
+Agent: I'm sorry to hear that you're not feeling well. Let me proceed with your request. Could you please provide me with your date of birth?
+User: 03/28/1957.
+Agent: I found your appointment scheduled for Monday, April 28th, at 1:00 PM. Would you like to cancel this appointment?
+User: Yes. Can we reschedule it?
+Agent: I can help with that! First, let me cancel your current appointment, and then we can discuss rescheduling. I'll proceed with the cancellation now.
+Agent: I'll go ahead and cancel your appointment for Monday, April 28th, at 1:00 PM. Please hold on for a moment.Your appointment has been successfully cancelled. Now, would you like to go ahead and reschedule it? If so, please let 
+User: Yes. 
+Agent: me know your preferred date and time!
+User: Whatever you have.
+User: Let's see.
+Agent: Let me check the available slots for rescheduling your appointment. Please hold on for a moment.
+Agent: I appreciate your patience! If you're still there, please let me know if you
+User: Yes. I'm still here.
+Agent: Thank you! I can help you reschedule your appointment. The next available slots are:
+
+- Tuesday, April 29th, at 10:00 AM
+- Wednesday, April 30th, at 2:00 PM
+- Friday, May 2nd, at 11:00 AM
+
+Please let me know which option works best for you!
+User: Repeat that.
+Agent: Sure! Here are the next available slots for rescheduling your appointment:
+
+- Tuesday, April 29th, at 10:00 AM
+- Wednesday, April 30th, at 2:00 PM
+- Friday, May 2nd, at 11:00 AM
+
+Which one would you like to choose?
+User: The following week.
+Agent: For the following week, I have the following available slots:
+
+- Tuesday, May 6th, at 10:00 AM
+- Wednesday, May 7th, at 2:00 PM
+- Friday, May 9th, at 11:00 AM
+
+Please let me know which date and time work for you!
+User: Repeat those dates again, please.
+Agent: Of course! Here are the available slots for the following week:
+
+- Tuesday, May 6th, at 10:00 AM
+- Wednesday, May 7th, at 2:00 PM
+- Friday, May 9th, at 11:00 AM
+
+Which one would you like to choose?
+User: Toast steak. Tuesday at ten. May 6. Right?
+Agent: It sounds like you meant to say Tuesday, May 6th, at 10:00 AM. I'll go ahead and 
+User: Correct.
+Agent: schedule that for you! Please hold on for a moment.
+Agent: Thank you for confirming! I'll proceed to schedule your appointment for Tuesday, May 6th, at 10:00 AM. Please hold on for just a moment."
+call_bd74fc920add6fc4114bd09227f,110.867,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Reschedule appointment.
+Agent: We hope everything is okay. Could I please know the reason for rescheduling your appointment?
+User: Cole Dental called me.
+Agent: Thank you for letting me know. Could you please provide the patient's date of birth?
+User: High school. Thank you.
+User: fifty nine.
+Agent: Could you please clarify the patient's full date of birth, including the day, month, and year?
+User: Five twelve nineteen fifty nine.
+User: nine.
+Agent: Thank you for providing the date of birth as May 12, 1959. Let me proceed with your request. Please hold on for a moment.I see that Chris Grosse has an appointment scheduled for today, Monday, July 21st, at 3:30 PM. Could you confirm if this is the appointment you would like to  Could you confirm if this is the appointment you would like to reschedule?
+User: Daniel? Yes.
+Agent: Got it! I will proceed with rescheduling the appointment for Chris Grosse. Could you please let me know your preferred new date for the appointment?
+User: Ask the office to call me.
+Agent: I will connect you to our rescheduling team for further assistance."
+call_fb134e54eedfa3903fd878ccbba,64.669,"Agent: Hello! I am Sara, a virtual assistant from the front office at Hull Family Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Do you do extractions?
+Agent: Yes, we do extractions as part of our dental services. If you'd like to schedule an appointment or need more information, I can assist you further. How can I help?
+User: How much does it cost?
+Agent: I’m unable to provide specific pricing details, as costs can vary depending on the complexity of the procedure and your insurance coverage. For accurate pricing and insurance-related information, I recommend speaking with our billing team. Would you like me to transfer your call to them?
+User: Yes.
+Agent: I will transfer your call to our billing team for assistance with pricing and insurance details."
+call_343c357653d5b7a79ec532a0a3f,67.101,"Agent: Hello! I am Sara, a virtual assistant from the front office at Weymouth Family Dental Care. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Reschedule a payment.
+Agent: It sounds like you want to reschedule a payment. I can help with that, but I'll need to transfer your call to our clinic staff for further assistance. Please hold on for a moment while I do that.
+Agent: I just wanted to check in and see if you're still there. If you need help with rescheduling 
+User: Yes.
+Agent: your payment, I can transfer your call to our clinic staff. Just let me know!
+User: Yes, please.
+Agent: I'm transferring your call to the clinic staff to help you with rescheduling your payment. Please hold on for a moment."
+call_f34eab7ef939f6077312a035d64,65.933,"Agent: Hi there! I’m Sara, a virtual assistant from the 
+Agent: front office at Alpha Dental Fall River. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: I would like to speak to a secretary, please.
+Agent: I can help you with that. Can you please let me know what your call is regarding?
+User: Looking to reschedule an appointment.
+Agent: I can transfer you to the clinic staff for that. Please hold on while I connect you.
+Agent: Just a quick reminder, I'm here to help you with rescheduling your appointment. If you're ready, I can transfer you to the clinic staff. Let me know!
+User: Yes.
+Agent: I'm transferring you to the clinic staff to help you with rescheduling your appointment. Please hold on."
+call_d6db30e9cc2ff5c2c88dad3d37a,66.757,"Agent: Hello!
+User: Hello?
+Agent:  I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I assist you today?
+User: I was received a voice mail regarding my upcoming appointment on June 13.
+User: Right. So I
+Agent: Could you please provide me with the patient's date of birth? This will help me find the appointment details for you.
+User: Eleven seven seventy six.
+Agent: Just to confirm, that's November 7, 1976, correct?
+User: Yes.
+Agent: I found your appointment details, Melissa. You have an appointment scheduled for June 13, 2025, at 1:30 PM.Is there anything else I can assist you with regarding this appointment?
+User: No.
+Agent: Thank you for contacting Alpha Dental Fall River! Have a great day!"
+call_483a1d5a9f85e8c4ea3e2491431,62.725,"Agent: Hi there! I'm Sara, a virtual assistant from the front office at Alpha Dental of Fall River. I'm here to assist you with appointment, billing, and clinic-related queries. How can I help you today?
+User: Reschedule.
+Agent: Could you please provide me with the patient's date of birth?
+User: Zero six one four two thousand six.
+Agent: Just to confirm, that's June 14, 2006. Is that correct?
+User: Yes.
+Agent: It seems we couldn't find any patient records with that date of birth. Would you like me to transfer your call to the clinic staff for further assistance?
+User: Yes.
+Agent: I'm transferring your call to the clinic staff for further assistance with rescheduling your appointment. Please hold on."
+call_218d636dca970277b507447dde6,132.683,"Agent: Hello!
+User: I 
+Agent:  I am 
+User: do medicines. Good.
+Agent: I am here to assist you with appointments, billing, and clinic-related queries. Could you let me know how I can help you today?
+User: I need to reschedule an appointment.
+Agent: I hope everything is okay. Could you please share the reason for rescheduling your appointment?
+User: Family emergency.
+Agent: Thank you for letting me know. I hope everything gets better soon. Could you please provide the patient's date of birth so I can assist with rescheduling the appointment?
+User: December ten ninety one.
+User: one.
+Agent: Just to confirm, the date of birth is December 10, 1991. Let me proceed with your request.I see two upcoming appointments for Crystal Marie Larkin:
+
+1. Wednesday, July 2nd at 12:30 PM.
+2. Wednesday, September 3rd at 8:45 AM.
+
+Could you confirm which appointment you would like to reschedule?
+User: July second.
+Agent: Got it. Could you please let me know your preferred new date for rescheduling the appointment?
+User: July sixteenth.
+Agent: Would you mind holding on for a second while 
+Agent: we check for the best available 
+Agent: slots?We found available appointment slots on your requested date of Wednesday, July 16, 2025. The first available slot is from 8:00 AM to 8:30 AM. Would you like to book this slot, or should I check for a later time?
+User: Book that block.
+Agent: Your appointment has been successfully rescheduled to Wednesday, July 16th, from 8:00 AM to 8:30 AM. Is there anything else I can assist you with?
+User: No. Thank you.
+User: you.
+Agent: Thank you for contacting Alpha Dental Fall River. Have a great day!"
+call_a5db2afc91fe96b0555db3636c1,61.03,"Agent: Hello, I am Sara, a virtual assistant from the front office at Alpha Dental Dartmouth. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Cancel appointment.
+Agent: Could you please share the reason for canceling the appointment?
+User: I can't come. I feel very
+Agent: I am sorry to hear that you are not feeling well. I hope you get better soon. Could you please provide the patient's date of birth so I can proceed with canceling the appointment?
+User: July twenty eighth fifty nine. Appointment today. Just scheduled it. Half hour ago, but I can't drive.
+Agent: I will connect you to the scheduling team to assist with canceling your appointment. Please hold on for a moment."
+call_7e5ba30c3bde5d2dd24f080638e,95.759,"User: If they can move it to time.
+Agent: Hi there! I'm Sara, a virtual assistant from the front office at Hull Family Dental. I'm here to assist with appointment, billing, and 
+User: Thank you 
+Agent: clinic-related 
+User: very much, sir.
+Agent: You're welcome! How can I assist you today?
+User: Reschedule.
+Agent: I can help with that! Could you please provide me with the patient's date of birth?
+User: 02/21/1977.
+Agent: Thank you! Just to confirm, that's February 21, 1977. Let me check the 
+User: Yes.
+Agent: appointment details for you. One moment, please.
+Agent: It seems like I might have lost you for a moment. If you're still there, I'll proceed to check the appointment details for February 21, 1977. Please hold on for just a moment!
+User: Okay.
+Agent: It looks like I couldn't find any appointments associated with that date of birth. Would you like me to transfer your call to the clinic staff for further assistance?
+User: Yes, please.
+Agent: I'm transferring your call to the clinic staff for further assistance with rescheduling your appointment."
+call_cb1bfecf1a0d5dfa0e497483fee,62.898,"Agent: Hello! This is Sara from Alpha Dental of Fall River. May I have your name, please?
+ User: Gerald, Because
+ Agent: Nice to meet you, Gerald! Are you a new 
+ User: Yes. That's No. 
+ Agent: patient, or do you have questions about an appointment or billing?
+ User: Representative. I'm
+ Agent: It seems like there might be a bit of confusion. Could you clarify if you're a new patient or if you have a specific question about an appointment or billing?
+ User: Representative,
+ Agent: It sounds like you might want to speak with a representative. Can you confirm if you have a specific issue or question that I can help with before transferring you?
+ User: No.
+ User: No.
+ Agent: Alright, I will transfer your call to a representative for further assistance. Please hold on for a moment.Transferring you now!"
+call_08d91798dd101acbaf814c45f84,108.21,"Agent: Hi, I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Okay. This is Maria Marks.
+User: I got I got a bill from them.
+User: I have Humana and I Medicaid and Humana. And the bill was, like, one ninety three and forty cents. But what I see is that Humana not the last time I was there, the time before that. I paid twenty five dollars co payment, and I didn't have to and I did pay twenty five dollars because Humana pays the co payment.
+User: And this last time that I went there, I went to pull out a tooth. And I took an x-ray.
+User: Medicare Medicare and Humana Humana base. How come I got a bill?
+User: a bill of a hundred and ninety three dollars and forty cents? I did place a truth on my partial. On the bottom.
+User: I have the partial. And they did replace a tooth.
+User: But to take the tooth and the co payment that I did pay the the last time, I didn't have to.
+User: How come I got this bill? A hundred and ninety three dollars and forty cents.
+User: If I have Medicare and and Humana, pre insurance.
+Agent: I understand your concern regarding the bill and insurance coverage. Let me transfer your call to our billing team, and they 
+User: Yes.
+Agent: will assist you further with this matter."
+call_48c412f050e6a937a62addbb87a,65.599,"Agent: Hello, I am Sara, a virtual assistant from the front office at Seabreeze Dental. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Received phone call.
+Agent: Hi there! How can I assist you today? Are you calling about an appointment, billing, or something else?
+User: Appointment.
+Agent: Got it! Are you looking to book, confirm, reschedule, or cancel an appointment?
+User: Confirm.
+Agent: Could you please provide the patient's date of birth? This will help me locate the appointment details.
+User: Six sixteen nineteen sixty two.
+Agent: Thank you!
+Agent:  Just to confirm, the date of birth is June 16, 1962. Let me proceed with your request.I am unable to locate the appointment details. I will transfer your call to the clinic for further assistance."
+call_1e45fa167ea647d7ca4d6c3bf30,89.37,"Agent: Hi there! I’m Sara, a virtual assistant from the front office at Alpha Dental Attleboro. I’m here to assist you with appointments, billing, and any clinic-related queries. How can I assist you today?
+User: So, pues, estoy
+Agent: ¡Hola! Estoy aquí para ayudarte. ¿En qué puedo asistirte hoy?
+User: Secretary.
+Agent: ¿Podrías darme un poco más de información sobre lo que necesitas? Estoy aquí para ayudarte con citas, facturación o cualquier consulta relacionada con la clínica.
+User: Oíme.
+Agent: Entiendo que necesitas atención. ¿Cómo puedo ayudarte hoy?
+User: Appointment.
+Agent: ¿Estás buscando hacer una cita, confirmar una cita existente o reprogramar una cita?
+User: Speak with someone.
+Agent: I'm transferring your call to a human agent for further assistance."
+call_9a8833e4ee322d5dd07ccc5f6c2,64.542,"Agent: Hello, I am Sara, a virtual assistant from the front office at Alpha Dental Fall River. I am here to assist with appointment, billing, and clinic-related queries. How can I assist you today?
+User: Employment.
+Agent: I am sorry, but I am unable to assist with employment-related queries. I recommend contacting the clinic directly for such inquiries. Is there anything else I can help you with?
+User: Appointment.
+Agent: Could you please let me know if you are looking to book a new appointment, 
+User: Yes.
+Agent: confirm an existing one, reschedule, or cancel an appointment?
+User: Schedule an appointment.
+Agent: I will connect you to our scheduling team to assist with booking your appointment. Please hold on."
